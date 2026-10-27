@@ -1,0 +1,107 @@
+{
+ "titulo": "Por que o trânsito trava do nada na Marginal?",
+ "tipo": "Trânsito Brasil 3D, ep. 1: mapa 3D de São Paulo (Marginal Pinheiros) em quatro vistas, narrado e didático, 9:16",
+ "objetivo": "Reel de ~40 s (117 palavras), v2 (27/10/2026) depois da crítica 'prolixo, repete, enrola; a freada tem que aparecer já'. A pergunta principal abre o vídeo e a freada acontece aos ~2 s. Cada ideia aparece uma vez: freada, reação em cadeia, fila parada, fila que anda pra trás, você no meio, espaço e dois segundos, pergunta. Sempre de cima.",
+ "voz": "Lucas (ElevenLabs eleven_v4), grave, calmo, uma emoção por frase. A voz do v1 (13 trechos, 85,9 s) NÃO serve: tem de ser regerada, só depois da aprovação deste roteiro.",
+ "vistas": {
+  "topo": "de cima, ortográfica, o filme inteiro; a abertura aérea sem carros saiu"
+ },
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Freada, fila, onda e espaço",
+   "falas": [
+    {
+     "fala": "Por que o trânsito trava do nada, sem batida e sem obra?",
+     "legenda": "Por que o trânsito trava do nada, sem batida e sem obra?",
+     "vista": "topo",
+     "imagem": "O carro de cima corre em verde; ~1,8 s, na palavra 'nada', o carro da frente pisa no freio: aro amarelo e luz vermelha. A freada já está na tela aos 2 s.",
+     "fonte": "Gancho + pergunta principal (nosso)."
+    },
+    {
+     "fala": "Foi só um carro que pisou forte no freio e quase parou.",
+     "legenda": "Foi só um carro que pisou forte no freio e quase parou.",
+     "vista": "topo",
+     "imagem": "O mesmo carro quase para; o aro amarelo acompanha; o de trás ainda verde.",
+     "fonte": "Cena nossa (simulação): freada firme e curta."
+    },
+    {
+     "fala": "O de trás demora pra reagir e freia ainda mais forte. O próximo, a mesma coisa.",
+     "legenda": "O de trás demora pra reagir e freia ainda mais forte. O próximo, a mesma coisa.",
+     "vista": "topo",
+     "imagem": "Os carros de trás passam de verde a laranja e a vermelho, um depois do outro.",
+     "fonte": "Sugiyama et al., New J. Phys. 10 (2008) 033001: pequenas variações ao seguir o carro da frente se somam."
+    },
+    {
+     "fala": "Em poucos segundos, tem carro parado no meio da pista, sem motivo nenhum.",
+     "legenda": "Em poucos segundos, tem carro parado no meio da pista, sem motivo nenhum.",
+     "vista": "topo",
+     "imagem": "Plano largo de cima: a fila vermelha aparece; a barra branca marca o fim da fila.",
+     "fonte": "Idem."
+    },
+    {
+     "fala": "Só que o primeiro já voltou a andar. A fila, não: ela anda pra trás.",
+     "legenda": "Só que o primeiro já voltou a andar. A fila, não: ela anda pra trás.",
+     "vista": "topo",
+     "imagem": "O carro do aro vira verde e vai embora; a barra branca do fim da fila anda para trás.",
+     "fonte": "Cena nossa: a fila dura mais de 10 vezes a freada. A onda anda para trás (~20 km/h em rodovias reais, Sugiyama 2008; a fala não cita o número)."
+    },
+    {
+     "fala": "Por isso você anda, para, anda de novo. É a onda daquela freada passando por você.",
+     "legenda": "Por isso você anda, para, anda de novo. É a onda daquela freada passando por você.",
+     "vista": "topo",
+     "imagem": "O carro 'você' (aro branco) chega na fila, para e volta a andar.",
+     "fonte": "Idem."
+    },
+    {
+     "fala": "Pra ajudar, deixa espaço pro carro da frente. Ele passa num poste, você conta dois segundos. Se chegar antes, tá colado demais.",
+     "legenda": "Pra ajudar, deixa espaço pro carro da frente. Ele passa num poste, você conta dois segundos. Se chegar antes, tá colado demais.",
+     "vista": "topo",
+     "imagem": "Poste e régua de 2 s no chão; o carro de trás cruza a régua antes (vermelho), ajusta (verde). Faixa verde marca o vão.",
+     "fonte": "Stern et al., Transp. Res. C 89 (2018); CTB art. 192; regra dos 2 s é recomendação de direção defensiva. A simulação mostra a fila menor (10 para 8), por isso 'ajudar'."
+    },
+    {
+     "fala": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+     "legenda": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+     "vista": "topo",
+     "imagem": "A câmera sobe e abre sobre o mapa com as vias iluminadas; pergunta na tela.",
+     "fonte": "Pergunta ao público."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  {
+   "titulo": "Traffic jams without bottlenecks: experimental evidence for the physical mechanism of the formation of a jam (Sugiyama et al.), New Journal of Physics 10, 033001, 2008",
+   "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/93262/NewJPhys_10_033001.pdf",
+   "usado_para": "22 carros numa pista circular de 230 m a ~30 km/h; engarrafamento sem obstáculo em ~1 min; os carros do engarrafamento param por completo; a onda anda para trás a cerca de 20 km/h, valor medido em rodovias reais."
+  },
+  {
+   "titulo": "ScienceDaily, 4/3/2008, resumo do experimento",
+   "url": "https://www.sciencedaily.com/releases/2008/03/080304075707.htm",
+   "usado_para": "pequenas variações de velocidade ao seguir o carro da frente se somam e viram uma onda de freada que anda para trás."
+  },
+  {
+   "titulo": "Dissipation of stop-and-go waves via control of autonomous vehicles: Field experiments (Stern et al.), Transportation Research Part C 89, 2018",
+   "url": "https://arxiv.org/abs/1705.01693",
+   "usado_para": "numa pista circular com mais de 20 carros, controlar a velocidade de um só carro amortece as ondas."
+  },
+  {
+   "titulo": "Comentário ao art. 192 do CTB (distância de segurança) e regra dos dois segundos",
+   "url": "https://ctbdigital.com.br/comentario/comentario192/",
+   "usado_para": "não manter distância segura é infração grave; a regra dos dois segundos é recomendação de direção defensiva, sem valor de sanção."
+  },
+  {
+   "titulo": "OpenStreetMap (Marginal Pinheiros, Ponte Estaiada)",
+   "url": "https://www.openstreetmap.org/",
+   "usado_para": "traçado, pistas, pontes e prédios do mapa 3D (dados © OpenStreetMap contributors, ODbL)."
+  }
+ ],
+ "pendencias_de_cenario": [
+  "Voz do v1 descartada para este roteiro; regerar as 8 falas do Lucas (custo de créditos: só com aprovação).",
+  "Freada começa aos ~1,8 s do filme (TE em kit3d/story_ep1_planos.py muda de 18,5 para ~1,8); a simulação corre mais rápido depois (a fila precisa formar e andar para trás em ~25 s de filme).",
+  "Sem a vista aérea da Estaiada (saiu para o vídeo começar na ação); a pílula 'Marginal Pinheiros, São Paulo' fica nos 2 primeiros segundos.",
+  "Simulação ilustrativa: mostrar o aviso no canto. A fila menor com espaço (10 para 8 carros) é o que a fala 7 diz com 'ajudar'."
+ ],
+ "regra_de_texto": "Fala literal, tom de conversa, frases de 11 a 25 palavras, sem sigla, sem citar estudo na fala (a fonte vai na legenda do post), sem número que a simulação não sustente. 'Efeito sanfona' só na tela."
+}

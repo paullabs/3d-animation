@@ -1,0 +1,127 @@
+{
+ "fps": 30,
+ "total_s": 29.565670999999995,
+ "total_frames": 887,
+ "shots": [
+  {
+   "i": 1,
+   "text": "Ele entrou no cartel há duas horas e já ganhou uma missão.",
+   "voice_s": 3.391,
+   "start": 0.0,
+   "dur": 3.670522,
+   "f0": 1,
+   "f1": 110,
+   "audio": "audio/l01.aiff"
+  },
+  {
+   "i": 2,
+   "text": "O chefe morreu, mas ninguém podia saber.",
+   "voice_s": 2.766,
+   "start": 3.670522,
+   "dur": 3.046349,
+   "f0": 111,
+   "f1": 202,
+   "audio": "audio/l02.aiff"
+  },
+  {
+   "i": 3,
+   "text": "Então colaram um bigode nele",
+   "voice_s": 2.015,
+   "start": 6.716870999999999,
+   "dur": 2.2945580000000003,
+   "f0": 203,
+   "f1": 270,
+   "audio": "audio/l03.aiff"
+  },
+  {
+   "i": 4,
+   "text": "e o sentaram na cadeira do chefe.",
+   "voice_s": 2.079,
+   "start": 9.011429,
+   "dur": 2.358549,
+   "f0": 271,
+   "f1": 341,
+   "audio": "audio/l04.aiff"
+  },
+  {
+   "i": 5,
+   "text": "Na reunião com o cartel rival,",
+   "voice_s": 1.822,
+   "start": 11.369978,
+   "dur": 2.102404,
+   "f0": 342,
+   "f1": 404,
+   "audio": "audio/l05.aiff"
+  },
+  {
+   "i": 6,
+   "text": "ele só podia dizer: hum.",
+   "voice_s": 2.175,
+   "start": 13.472382,
+   "dur": 2.4545580000000005,
+   "f0": 405,
+   "f1": 478,
+   "audio": "audio/l06.aiff"
+  },
+  {
+   "i": 7,
+   "text": "O rival entendeu como ameaça",
+   "voice_s": 2.03,
+   "start": 15.926939999999998,
+   "dur": 2.31034,
+   "f0": 479,
+   "f1": 547,
+   "audio": "audio/l07.aiff"
+  },
+  {
+   "i": 8,
+   "text": "e assinou a paz.",
+   "voice_s": 1.279,
+   "start": 18.23728,
+   "dur": 1.558549,
+   "f0": 548,
+   "f1": 594,
+   "audio": "audio/l08.aiff"
+  },
+  {
+   "i": 9,
+   "text": "Os cartéis viraram sócios",
+   "voice_s": 2.03,
+   "start": 19.795828999999998,
+   "dur": 2.31034,
+   "f0": 595,
+   "f1": 663,
+   "audio": "audio/l09.aiff"
+  },
+  {
+   "i": 10,
+   "text": "e ele virou o chefe.",
+   "voice_s": 1.407,
+   "start": 22.106168999999998,
+   "dur": 1.686531,
+   "f0": 664,
+   "f1": 714,
+   "audio": "audio/l10.aiff"
+  },
+  {
+   "i": 11,
+   "text": "Hoje ele ainda usa o bigode, e ninguém sabe que é colado.",
+   "voice_s": 3.518,
+   "start": 23.792699999999996,
+   "dur": 3.798413,
+   "f0": 715,
+   "f1": 828,
+   "audio": "audio/l11.aiff"
+  },
+  {
+   "i": 12,
+   "text": "Você teria aceitado?",
+   "voice_s": 1.695,
+   "start": 27.591112999999993,
+   "dur": 1.974558,
+   "f0": 829,
+   "f1": 887,
+   "audio": "audio/l12.aiff"
+  }
+ ]
+}

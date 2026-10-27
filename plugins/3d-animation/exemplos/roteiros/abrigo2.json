@@ -1,0 +1,148 @@
+{
+ "titulo": "O abrigo, parte 2",
+ "tipo": "narrativa em primeira pessoa (POV), continuação direta do ep. 1",
+ "objetivo": "Reel de ~70 s, 9:16, mesmo estilo do ep. 1. Começa no último quadro do ep. 1 (os três no vão da porta, o vulto que rosna nos destroços) e termina com alguém batendo no portão do grupo e chamando o nome do narrador. Plano em personagem/abrigo/parte2-plano.md (v4).",
+ "voz": "Lucas (ElevenLabs eleven_v4), a mesma do ep. 1, uma emoção por frase, trechos curtos, sem mexer no tom.",
+ "personagens": {
+  "eu": "quem conta, de blusa vermelha escura (o mesmo do ep. 1)",
+  "Zé": "camisa verde, o que trancou a porta no ep. 1",
+  "Rita": "a mais nova, com o suéter vermelho da Pipoca na mão",
+  "as coisas": "gente curvada e escura, como o vulto do 11D; quem ficou do lado de fora no ep. 1",
+  "o grupo": "sobreviventes com lanternas (novo, pedido do Paulo)"
+ },
+ "regra_de_texto": "Mesma do ep. 1: palavra simples e literal, com contexto e ligações; frases de 8 a 24 palavras; sem violência explícita (o ataque fica fora do quadro).",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "A coisa",
+   "falas": [
+    {
+     "fala": "A gente achava que não tinha sobrado ninguém no mundo. Até aquela coisa sair do escuro. Tinha cara de gente, mas não era gente.",
+     "legenda": "A gente achava que não tinha sobrado ninguém no mundo. Até aquela coisa sair do escuro. Tinha cara de gente, mas não era gente.",
+     "imagem": "Começa no mesmo quadro do 11D: os três no vão da porta, o vulto desfocado nos destroços ao lado do abrigo. O vulto se levanta e entra na luz suja: corpo de gente, curvado, escuro, olho branco apagado.",
+     "fonte": "11D e a última fala do ep. 1 ('só pra ficar sozinho num mundo que acabou')."
+    },
+    {
+     "fala": "Ela pulou em cima do Zé. E aí a gente correu, sem olhar pra trás.",
+     "legenda": "Ela pulou em cima do Zé. E aí a gente correu, sem olhar pra trás.",
+     "imagem": "A coisa avança para o Zé e o quadro corta antes do contato. A Rita e eu saímos correndo pela soleira, passando pela bicicleta caída.",
+     "fonte": "Paulo: 'o monstro aparece e já gruda no Zé'. Bicicleta e soleira: 10C e 10E do ep. 1."
+    }
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "A corrida",
+   "falas": [
+    {
+     "fala": "A rua já tava escurecendo, e dos prédios quebrados foram saindo outras iguais a ela.",
+     "legenda": "A rua já tava escurecendo, e dos prédios quebrados foram saindo outras iguais a ela.",
+     "imagem": "A mesma rua do 10B e do 11C, agora de noite. Dos vãos dos prédios em ruínas saem vultos curvados, devagar, na nossa direção.",
+     "fonte": "Paulo: 'depois já aparece outro monstro'. Rua em ruínas do ep. 1."
+    },
+    {
+     "fala": "Eu ouvi o Zé gritar o meu nome. A mão da Rita soltou da minha. E eu não vi mais ninguém.",
+     "legenda": "Eu ouvi o Zé gritar o meu nome. A mão da Rita soltou da minha. E eu não vi mais ninguém.",
+     "imagem": "POV correndo no escuro, a mão da Rita escorregando da minha (manga vermelha comprida). O suéter vermelho fica para trás, no chão.",
+     "fonte": "Paulo: 'eu não vi ninguém ser atacado, não dá pra saber quem morreu'."
+    },
+    {
+     "fala": "Aí veio uma pancada na cabeça, e tudo apagou.",
+     "legenda": "Aí veio uma pancada na cabeça, e tudo apagou.",
+     "imagem": "Um tranco no POV, o quadro gira para o chão e a tela fica preta. Só o som da pancada e o zumbido.",
+     "fonte": "Paulo: 'tomei uma tacada na cabeça, então eu apago'."
+    }
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "O grupo",
+   "falas": [
+    {
+     "fala": "Quando eu acordei, tinha um monte de gente em volta de mim, com lanterna na minha cara.",
+     "legenda": "Quando eu acordei, tinha um monte de gente em volta de mim, com lanterna na minha cara.",
+     "imagem": "POV deitado, olhando para cima: um círculo de rostos sujos, de máscara e pano no rosto, as lanternas cegando. Lente de 14 mm, colada no chão.",
+     "fonte": "Paulo: 'eu apareço com o grupo, olhando pra cima, com um monte de gente me olhando'."
+    },
+    {
+     "fala": "Eles tavam esperando eu virar uma daquelas coisas. Mas eu não virei. E alguém falou baixinho: ele veio de um abrigo.",
+     "legenda": "Eles tavam esperando eu virar uma daquelas coisas. Mas eu não virei. E alguém falou baixinho: ele veio de um abrigo.",
+     "imagem": "Uma mulher abaixa a lanterna e olha os meus olhos de perto. As pessoas atrás dela se olham, e alguém aponta para a minha blusa vermelha limpa de cinza por baixo.",
+     "fonte": "Paulo: 'eles achavam que eu ia virar monstro, mas perceberam que eu tava normal'."
+    },
+    {
+     "fala": "Cadê a Rita? Cadê o Zé? Ninguém ali sabia.",
+     "legenda": "Cadê a Rita? Cadê o Zé? Ninguém ali sabia.",
+     "imagem": "Eu sentado, procurando entre os rostos. Ninguém tem camisa verde, ninguém tem suéter vermelho. As pessoas balançam a cabeça.",
+     "fonte": "Paulo: 'onde tá a Rita, onde tá o Zé?'."
+    }
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O que o líder contou",
+   "falas": [
+    {
+     "fala": "O líder me contou: quem respirou o ar lá fora derreteu por dentro e virou uma gosma.",
+     "legenda": "O líder me contou: quem respirou o ar lá fora derreteu por dentro e virou uma gosma.",
+     "imagem": "O líder fala na luz da fogueira. Flashback dessaturado: a dona da padaria na porta do abrigo, a poeira branca caindo no rosto; dias depois, sentada contra a porta, a pele escurecendo e amolecendo (sem sangue, sem detalhe nojento: só a forma cedendo).",
+     "fonte": "Paulo: 'é tanta radiação que aquilo virou uma gosma'. Céu branco: fala 1 do ep. 1."
+    },
+    {
+     "fala": "A gosma sai do corpo e deixa só o esqueleto. Por isso a rua tá cheia de ossos.",
+     "legenda": "A gosma sai do corpo e deixa só o esqueleto. Por isso a rua tá cheia de ossos.",
+     "imagem": "A gosma escura escorre de dentro da roupa e se afasta pelo chão, e o esqueleto fica sentado no mesmo lugar, na mesma pose do esqueleto encostado no pilar do ep. 1. Corta para a rua cheia de ossos (10C do ep. 1).",
+     "fonte": "Paulo: 'só restou esqueleto'. Ep. 1: esqueletos na frente da porta (esqueletos_porta), ossos na soleira (10C)."
+    },
+    {
+     "fala": "Só que ninguém morreu de verdade. A gosma se junta de novo e vira outra coisa: os Sem-Osso.",
+     "legenda": "Só que ninguém morreu de verdade. A gosma se junta de novo e vira outra coisa: os Sem-Osso.",
+     "imagem": "Num beco, poças de gosma escorrem umas para as outras e sobem, formando um corpo curvado que dobra onde não tem junta: a coisa do começo, com pedaços do avental grudados.",
+     "fonte": "Paulo: 'as pessoas não morreram; derreteu e se recriou em outro organismo; tem que dar um nome'. Nome a aprovar."
+    },
+    {
+     "fala": "Os ossos na frente da nossa porta eram do povo que batia, pedindo pra entrar.",
+     "legenda": "Os ossos na frente da nossa porta eram do povo que batia, pedindo pra entrar.",
+     "imagem": "Flashback do 2E do ep. 1 (a dona da padaria batendo no aço) e do esqueleto encostado no pilar (11A do ep. 1), no mesmo lugar.",
+     "fonte": "Fala 2 do ep. 1 e os esqueletos da porta."
+    },
+    {
+     "fala": "Pelo rádio, eles contavam quem ainda respondia no mundo inteiro: catorze pessoas.",
+     "legenda": "Pelo rádio, eles contavam quem ainda respondia no mundo inteiro: 14 pessoas.",
+     "imagem": "Um rádio de válvula numa caixa de madeira, a luz âmbar do mostrador acende. Na parede, um quadro de giz com 14 riscos (rima com o calendário de giz do ep. 1).",
+     "fonte": "Paulo: 'só existem 14 pessoas na face da Terra'. 'Nove ali' é nosso: dá o tamanho do absurdo e conta o grupo."
+    },
+    {
+     "fala": "E toda noite, uma voz chamava: quem nunca respirou o ar de fora, venha pra torre.",
+     "legenda": "E toda noite, uma voz chamava: quem nunca respirou o ar de fora, venha pra torre.",
+     "imagem": "O alto-falante do rádio de perto, chiando. Corta para o telhado do galpão: lá longe, depois da cidade em ruínas, uma torre no alto de um morro com uma luz vermelha piscando, a única luz elétrica do mundo.",
+     "fonte": "Paulo: 'um grupo secreto ou alguma coisa que é a salvação, o objetivo, para onde eles precisam se guiar'. A torre e a voz são novas (a aprovar). Na parede de teorias: 'QUEM FEZ OS ABRIGOS SABIA?'"
+    },
+    {
+     "fala": "Ninguém ali podia entrar, porque todos já tinham respirado. Só eu. E a Rita, se ela ainda tiver viva.",
+     "legenda": "Ninguém ali podia entrar, porque todos já tinham respirado. Só eu. E a Rita, se ela ainda tiver viva.",
+     "imagem": "CU nos rostos de pano; macro da mão do líder com as pontas dos dedos pretas e pingando (o que o ar já começou a fazer); o narrador olha para a própria mão limpa.",
+     "fonte": "Furo de história resolvido por decisão do Paulo (26/10): os nove ainda vão derreter, o líder sabe, e o narrador é a única chance deles."
+    }
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O portão",
+   "falas": [
+    {
+     "fala": "Foi aí que alguém começou a bater no portão. E chamava o meu nome.",
+     "legenda": "Foi aí que alguém começou a bater no portão. E chamava o meu nome.",
+     "imagem": "O grupo congela e vira a cabeça ao mesmo tempo para o portão de aço, que treme com as batidas. A minha nuca a um palmo do aço, no mesmo enquadramento do Zé no 2F do ep. 1.",
+     "fonte": "Fim A, escolhido pelo Paulo."
+    },
+    {
+     "fala": "Quer saber quem tava lá fora? Segue pra parte três.",
+     "legenda": "Quer saber quem tava lá fora? Segue pra parte 3.",
+     "imagem": "A minha mão no ferrolho, que começa a correr; corta para preto. Uma última batida no escuro.",
+     "fonte": "Fecho no molde do ep. 1."
+    }
+   ]
+  }
+ ]
+}

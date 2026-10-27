@@ -1,0 +1,136 @@
+"""O MUNDO FIXO de "os passos" (crítica de 25/10/2026: "o prédio some; a cada hora o cenário muda; está sempre mostrando as mesmas cenas; tem que ser o mesmo
+ambiente para a pessoa identificar e comparar o antes e o depois; cores mais vivas").
+Antes cada plano montava a rua de novo (escalada por 2^-n), com limpezas e vizinhança diferentes em cada n. Agora a rua é UMA SÓ, em metros reais, igual em
+todos os planos: o que muda é onde o boneco pisa (o passo n), a escala dele e a câmera.
+Layout (metros; o boneco pisa em (0, y_n) com y_n = S2.eu_y(n); a rua corre ao longo de y e ele anda para -y):
+  +x: o ônibus (3,2 m) e o ponto; o poste de 7 m; os três prédios de comparação, cada um colado no ponto de pouso do seu passo
+      (5 andares = 15 m no 3º passo, 10 andares = 30 m no 4º, 18 andares = 55 m no 5º); os prédios baixos e coloridos da avenida; o horizonte de torres.
+  -x: o parque (grama e árvores, só de longe, para a câmera lateral nunca bater em nada).
+  Réguas que ficam: ao pisar, cada passo deixa a sua régua de pé na rua (3,6 / 7,2 / 14,4 / 28,8 / 57,6 m) com a pílula do número: quem olha de longe
+  vê a escada de alturas e compara o antes e o depois.
+Uso: E = avenida(n, reguas_ate=n - 1): monta tudo e põe o boneco (de 1,8 u) na origem da cena, como o resto do kit já espera (escala k = 2^-n)."""
+import os, sys, math, random
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import bpy
+import lib, cena
+import objetos3d_abrigo as O3, cidade3d as C3
+import objetos3d_passos as OP, objetos3d_passos_b as OB
+import story_passos as SP
+import story_passos2 as S2
+from heroi3d import plano
+import elenco3d_abrigo as E3
+
+# o boneco e o amigo mais vivos (o vermelho e o verde)
+E3.ESPEC['eu'].update(roupa='#f0281f', escura='#b5140c', gola='#b5140c')      # a blusa vermelha mais viva (pedido de 26/10/2026: sem drama, cor normal)
+E3.ESPEC['viz2'].update(roupa='#27b36a', escura='#1b8a50', gola='#1b8a50', calca='#2d3a4a')
+
+# cores: céu, grama, boneco e amigo vivos; os prédios em tons reais (a versão colorida de brinquedo, recusada em 25/10, está em mundo7_v8_colorido.py)
+CEU = dict(chao="#74d474", horizonte="#dff3ff", meio="#6fbaff", topo="#1d6fe8")
+GRAMA, ASFALTO, FAIXA, CALCADA, PRACA = "#6cbf68", "#4a4f58", "#f2f0e6", "#e9ddc0", "#e2d6b4"
+PRED = dict(p5="#d9b878", p10="#9db3a6", p18="#6f93c4")      # areia, concreto verde-acinzentado e vidro azulado: tons reais, só um pouco mais saturados
+VIVAS = ["#cdbb9b", "#b9c4cc", "#d4b896", "#a8b8a9", "#c9a98d", "#b5bfc9", "#dccfae", "#9fb1c4"]   # concreto, areia, tijolo claro, vidro: nada de rosa nem roxo
+
+Y = {k: S2.eu_y(k) for k in range(0, 6)}                    # onde ele pisa em cada passo (m): 0, -2,52, -7,56, -17,64, -37,8, -78,12
+X_AM, Y_AM = -1.4, Y[1] + 1.3                               # o amigo, no chão onde parou
+ALT = lambda k: 1.8 * 2 ** k
+def REGUA_XY(k):
+    """a régua que fica de cada passo: no chão, fora da calçada, uma por passo (x fixo do lado do prédio, y no ponto de pouso). Nada sobre o ônibus:
+    o ônibus está em x=2,8 e a régua fica em x=4,6 (sobre a calçada, do lado dos prédios)"""
+    return (4.6 + 0.0 * k, Y[k] - 0.6 * 2 ** k)
+
+
+def _poli(nome, pts, cor):
+    return cena.poly_mesh(nome, pts, plano(cor))
+
+
+def onibus_fixo(nome, loc, cor="#f4f4f0", faixa="#e8344a"):
+    """o ônibus de 12 m refeito (o antigo tinha a porta escura por cima da roda e do vidro e as rodas enterradas na lataria): roda saindo da lataria
+    com o cava-roda atrás, vidro azulado com divisórias, porta só do lado da calçada (+x), faixa, ar-condicionado e retrovisor. A frente é -y."""
+    r = lib.empty(nome, None, loc)
+    mc, mf, mp = OP.M(cor, "#c9c6bc"), OP.M(faixa, "#9a2438"), OP.M("#2b2d33", "#17181c")
+    mv, mv2 = OP.M("#3f7390", "#2a5068", "#d6eef7"), OP.M("#4f86a3", "#35637b", "#e4f4fb")
+    OB.caixa(nome + "_corpo", (2.5, 12.0, 2.2), mc, (0, 0, 1.45), cont=0.02, chanfro=0.14, pai=r)
+    OB.caixa(nome + "_saia", (2.52, 11.9, 0.22), mp, (0, 0, 0.46), cont=0.0, pai=r)
+    OB.caixa(nome + "_faixa", (2.53, 11.9, 0.28), mf, (0, 0, 0.95), cont=0.0, pai=r)
+    OB.caixa(nome + "_teto", (2.3, 11.7, 0.22), OP.M("#d7d5cc", "#b3b0a5"), (0, 0, 2.62), cont=0.01, chanfro=0.06, pai=r)
+    OB.caixa(nome + "_ac", (1.5, 2.6, 0.28), OP.M("#cfcbc0", "#a9a598"), (0, 1.2, 2.86), cont=0.01, chanfro=0.05, pai=r)
+    for s in (-1, 1):
+        y = -4.6
+        while y < 5.4:                                                   # vidros com divisória, fora da porta
+            if not (s == 1 and -5.2 < y < -3.9 or s == 1 and 0.4 < y < 1.9):
+                OB.caixa(f"{nome}_vid{s}_{y:.1f}", (0.05, 1.32, 0.86), mv if int((y + 5) / 1.5) % 2 == 0 else mv2, (s * 1.27, y + 0.66, 1.95), cont=0.0, pai=r)
+            y += 1.5
+    for y0 in (-4.55, 1.15):                                             # as duas portas, do lado da calçada
+        OB.caixa(f"{nome}_porta{y0}", (0.05, 1.15, 1.7), OP.M("#6aa3be", "#46778f", "#e4f4fb"), (1.27, y0 + 0.0, 1.2), cont=0.0, pai=r)
+    OB.caixa(nome + "_parabrisa", (2.3, 0.05, 1.2), mv2, (0, -6.02, 1.95), cont=0.0, pai=r)
+    OB.caixa(nome + "_letreiro", (1.7, 0.06, 0.26), OP.M("#15171b"), (0, -6.03, 2.62), cont=0.0, pai=r)
+    for s in (-1, 1):
+        OB.caixa(f"{nome}_farol{s}", (0.42, 0.06, 0.2), O3.brilha("#fff4d8", 1.2), (s * 0.85, -6.03, 0.72), cont=0.0, pai=r)
+        OB.caixa(f"{nome}_retrovisor{s}", (0.1, 0.06, 0.34), mp, (s * 1.42, -5.7, 1.75), cont=0.0, pai=r)
+        for yy in (-3.9, 3.6):
+            O3.cilindro(f"{nome}_cava{s}{yy}", 0.64, 0.05, OP.M("#101114", "#08090b"), r, (s * 1.255, yy, 0.55), seg=28, eixo="X", contorno=0.0)
+            O3.cilindro(f"{nome}_roda{s}{yy}", 0.52, 0.34, mp, r, (s * 1.3, yy, 0.52), seg=28, eixo="X", contorno=0.01)
+            O3.cilindro(f"{nome}_calota{s}{yy}", 0.27, 0.36, OP.M("#c9ced2", "#8b9196"), r, (s * 1.3, yy, 0.52), seg=20, eixo="X", contorno=0.0)
+    return r
+
+
+def construir(reguas_ate=0):
+    """a rua toda, em metros reais. reguas_ate = até que passo as réguas deixadas no chão já existem"""
+    rnd = random.Random(7)
+    SP.ceu_dia(CEU)
+    y0, y1 = 130.0, -420.0
+    _poli("chao_largo", [(-4000, -4000, -0.05), (4000, -4000, -0.05), (4000, 4000, -0.05), (-4000, 4000, -0.05)], GRAMA)
+    _poli("asfalto", [(-4.4, y0, 0), (4.4, y0, 0), (4.4, y1, 0), (-4.4, y1, 0)], ASFALTO)      # a avenida tem duas faixas de cada lado: espaço de sobra para o ônibus e para ele
+    y = y0
+    while y > y1:
+        _poli(f"faixa_{int(y * 10)}", [(-0.07, y, 0.004), (0.07, y, 0.004), (0.07, y - 1.6, 0.004), (-0.07, y - 1.6, 0.004)], FAIXA)
+        y -= 3.4
+    for s in (-1, 1):
+        OB.caixa(f"calcada{s}", (1.8, y0 - y1, 0.15), OP.M(CALCADA, "#d9c79b"), (s * 5.3, (y0 + y1) / 2, 0.075), cont=0.0)
+        OB.caixa(f"meiofio{s}", (0.16, y0 - y1, 0.2), OP.M("#ffffff", "#cfc6ad"), (s * 4.48, (y0 + y1) / 2, 0.1), cont=0.004)
+    _poli("praca", [(6.2, y0, 0.01), (60, y0, 0.01), (60, y1, 0.01), (6.2, y1, 0.01)], PRACA)
+
+    # o ônibus e o ponto (3,2 m): o primeiro termômetro, ao lado do 1º passo
+    onibus_fixo("onibus", (2.8, 0.0, 0.0))                       # faixa da direita: 1,55 a 4,05 m (a avenida vai até 4,4 m)
+    OB.ponto_onibus("ponto", (5.6, 7.5, 0.15), rot=-90)
+    # o poste de 7 m (a fileira de postes só vai até o 4º passo: depois o corpo dele ocuparia o lugar deles)
+    for k, yy in enumerate((38.6, 16.6, -5.4, -27.4)):
+        C3.poste_luz(f"poste_{k}", (5.6, yy, 0.15), lado=1)
+    # os prédios de comparação, colados no ponto de pouso do 3º, do 4º e do 5º passo (o centro do prédio na mesma altura y do pouso)
+    OB.predio_alto("p5", 11.5, Y[3], 5, w=11, cor=PRED["p5"])
+    OB.predio_alto("p10", 15.0, Y[4], 10, w=15, cor=PRED["p10"])
+    OB.predio_alto("p18", 23.0, Y[5], 18, w=20, cor=PRED["p18"], balancim=True, face_balancim="esq")
+    # a avenida: prédios baixos e coloridos dos dois lados do começo, de frente para a rua
+    for i, yy in enumerate(range(70, -2, -12)):
+        OP.torre(f"av_{i}", 12.0 + rnd.uniform(-0.5, 1.5), yy, rnd.uniform(7, 10), rnd.uniform(9, 12), rnd.choice((9.0, 12.0, 15.0)), cor=VIVAS[(i * 3) % len(VIVAS)], cont=0.04)
+    # o fundo: quarteirões coloridos atrás da praça e o horizonte de torres no fim da avenida (para onde ele olha no 1º plano)
+    for i in range(0, 22):
+        yy = 60 - i * 26.0 + rnd.uniform(-4, 4)
+        xx = 38.0 + rnd.choice((0, 0, 22, 44)) + rnd.uniform(-3, 3)
+        OP.torre(f"fd_{i}", xx, yy, rnd.uniform(14, 26), rnd.uniform(14, 24), rnd.choice((24.0, 36.0, 48.0, 66.0, 90.0)), cor=VIVAS[(i * 5 + 2) % len(VIVAS)], cont=0.06)
+    for i in range(0, 14):
+        xx = -70.0 + i * 11.0 + rnd.uniform(-2, 2)
+        OP.torre(f"hz_{i}", xx, 190.0 + rnd.uniform(0, 40), rnd.uniform(14, 26), 16.0, rnd.choice((30.0, 48.0, 70.0, 110.0)), cor=VIVAS[(i * 3 + 1) % len(VIVAS)], cont=0.08)
+    # o parque do lado -x: árvores só de longe (a câmera lateral fica entre elas e ele)
+    for i in range(0, 46):
+        C3.arvore(f"arv_{i}", (-20.0 - rnd.uniform(0, 60), 90.0 - i * 8.5 + rnd.uniform(-3, 3), 0.0), rnd.uniform(1.2, 2.2), cor=rnd.choice(("#3fb950", "#52c75f", "#2ea84a")))
+    # as réguas que ficam: uma para cada passo já dado
+    import provas_passos5 as PV
+    for k in range(1, reguas_ate + 1):
+        x, y_ = REGUA_XY(k)
+        PV.regua_lateral(x, y_, ALT(k), ALT(k), 0.11 * 2 ** k, nome=f"rf{k}")
+
+
+def avenida(n, reguas=True, extras=None):
+    """a rua do passo n com o boneco de 1,8 u na origem (a rua é escalada por 2^-n e deslocada para o ponto de pouso do passo n)"""
+    E = SP.no_mundo(n, lambda: construir(n - 1 if reguas else 0), cont_u=0.0035)
+    k = 2.0 ** -n
+    E.location = (0.0, -Y[n] * k, 0.0)
+    return E
+
+
+def amigo(n, pose="olha_baixo", cabeca=-28, olha=-24, rosto=None):
+    """o amigo no chão onde parou, visto no passo n (verde: é a única cor que ele tem e não se confunde com o prédio)"""
+    import story_passos4 as S4
+    k = 2.0 ** -n
+    return S4.amigo(n, X_AM * k, (Y_AM - Y[n]) * k, pose, cabeca=cabeca, olha=olha, rosto=rosto or dict(boca="o"))

@@ -1,0 +1,87 @@
+{
+ "titulo": "Por que o trânsito trava do nada na Marginal?",
+ "voz": "ElevenLabs voz.mp3",
+ "total": 43.09,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Por que o trânsito trava do nada, sem batida e sem obra?",
+   "legenda": "Por que o trânsito trava do nada, sem batida e sem obra?",
+   "inicio": 0.36,
+   "duracao": 3.42,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Foi só um carro que pisou forte no freio e quase parou.",
+   "legenda": "Foi só um carro que pisou forte no freio e quase parou.",
+   "inicio": 4.06,
+   "duracao": 3.28,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "O de trás demora pra reagir e freia ainda mais forte. O próximo, a mesma coisa.",
+   "legenda": "O de trás demora pra reagir e freia ainda mais forte. O próximo, a mesma coisa.",
+   "inicio": 7.66,
+   "duracao": 5.06,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Em poucos segundos, tem carro parado no meio da pista, sem motivo nenhum.",
+   "legenda": "Em poucos segundos, tem carro parado no meio da pista, sem motivo nenhum.",
+   "inicio": 12.98,
+   "duracao": 4.42,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Só que o primeiro já voltou a andar. A fila, não: ela anda pra trás.",
+   "legenda": "Só que o primeiro já voltou a andar. A fila, não: ela anda pra trás.",
+   "inicio": 17.82,
+   "duracao": 4.7,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Por isso você anda, para, anda de novo. É a onda daquela freada passando por você.",
+   "legenda": "Por isso você anda, para, anda de novo. É a onda daquela freada passando por você.",
+   "inicio": 22.96,
+   "duracao": 5.84,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Pra ajudar, deixa espaço pro carro da frente. Ele passa num poste, você conta dois segundos. Se chegar antes, tá colado demais.",
+   "legenda": "Pra ajudar, deixa espaço pro carro da frente. Ele passa num poste, você conta dois segundos. Se chegar antes, tá colado demais.",
+   "inicio": 28.8,
+   "duracao": 7.94,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+   "legenda": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+   "inicio": 37.28,
+   "duracao": 4.18,
+   "arquivo": "roteiros/voz-transito-v2/narracao.wav"
+  }
+ ]
+}

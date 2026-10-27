@@ -1,0 +1,14 @@
+{
+  "name": "3d-animation",
+  "description": "Plugin de animação 3D para reels narrados (Blender + Claude Code)",
+  "owner": {
+    "name": "Canal 38"
+  },
+  "plugins": [
+    {
+      "name": "3d-animation",
+      "source": "./plugins/3d-animation",
+      "description": "Kit pronto de animação 3D (Blender por script), regras de cinema, voz de teste grátis, som sintetizado e render. Instale e gere histórias sem recriar nada."
+    }
+  ]
+}

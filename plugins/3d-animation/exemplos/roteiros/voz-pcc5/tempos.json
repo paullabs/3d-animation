@@ -1,0 +1,147 @@
+{
+ "titulo": "Você acabou de entrar no PCC",
+ "voz": "ElevenLabs lucas.mp3",
+ "total": 59.01,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Você acabou de entrar no PCC. E o seu salário pode chegar a mil e duzentos reais por dia.",
+   "legenda": "Você acabou de entrar no PCC. E o seu salário pode chegar a 1.200 reais por dia.",
+   "inicio": 0.377,
+   "duracao": 4.763,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Só que cada degrau paga mais... e cobra mais caro.",
+   "legenda": "Só que cada degrau paga mais... e cobra mais caro.",
+   "inicio": 5.4,
+   "duracao": 3.02,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No começo, você fica no ponto e leva quinze por cento do que vende no turno.",
+   "legenda": "No começo, você fica no ponto e leva 15% do que vende no turno.",
+   "inicio": 8.62,
+   "duracao": 3.46,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "O problema? Quando a polícia chega, quem está na rua é você.",
+   "legenda": "O problema? Quando a polícia chega, quem está na rua é você.",
+   "inicio": 12.3,
+   "duracao": 2.88,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Aí você vira gerente. São cinco por cento, mas de um ponto que pode fazer setecentos mil por semana.",
+   "legenda": "Aí você vira gerente. São 5%, mas de um ponto que pode fazer 700 mil por semana.",
+   "inicio": 15.52,
+   "duracao": 5.32,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "E tem policial que cobra para fazer vista grossa. Quarenta e dois PMs já foram condenados por isso.",
+   "legenda": "E tem policial que cobra para fazer vista grossa. 42 PMs já foram condenados por isso.",
+   "inicio": 21.04,
+   "duracao": 4.88,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Depois você vira membro. E agora quem paga é você: novecentos e cinquenta reais por mês.",
+   "legenda": "Depois você vira membro. E agora quem paga é você: 950 reais por mês.",
+   "inicio": 25.92,
+   "duracao": 4.8,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Atrasou? Vai para o tribunal do crime. E a pena pode ser surra, braço quebrado... ou morte.",
+   "legenda": "Atrasou? Vai para o tribunal do crime. E a pena pode ser surra, braço quebrado... ou morte.",
+   "inicio": 31.06,
+   "duracao": 4.86,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Chegou a chefe de setor? Agora é muito dinheiro passando pela sua mão.",
+   "legenda": "Chegou a chefe de setor? Agora é muito dinheiro passando pela sua mão.",
+   "inicio": 36.18,
+   "duracao": 3.26,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 10,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "E isso dá inveja. Um tesoureiro acusado de sumir com cinco milhões foi fuzilado na porta de casa.",
+   "legenda": "E isso dá inveja. Um tesoureiro acusado de sumir com 5 milhões foi fuzilado na porta de casa.",
+   "inicio": 39.56,
+   "duracao": 4.98,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 11,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Lá no topo, poucos dividem oitenta por cento do que cada ponto fatura.",
+   "legenda": "Lá no topo, poucos dividem 80% do que cada ponto fatura.",
+   "inicio": 44.74,
+   "duracao": 3.64,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Mas nem lá em cima você está seguro. Em dois mil e vinte e quatro, chefes mandaram matar o próprio líder.",
+   "legenda": "Mas nem lá em cima você está seguro. Em 2024, chefes mandaram matar o próprio líder.",
+   "inicio": 48.58,
+   "duracao": 4.8,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "E dos quinze que mandam no topo, só um está solto.",
+   "legenda": "E dos quinze que mandam no topo, só um está solto.",
+   "inicio": 53.56,
+   "duracao": 2.72,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer subir?",
+   "legenda": "Ainda quer subir?",
+   "inicio": 56.54,
+   "duracao": 0.76,
+   "arquivo": "../roteiros/voz-pcc5/narracao.wav"
+  }
+ ]
+}

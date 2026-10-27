@@ -1,0 +1,148 @@
+{
+ "titulo": "Como é ser chefão de um cartel (5 níveis)",
+ "voz": "Luciana",
+ "taxa": 200,
+ "total": 67.08,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Imagina ter tanto dinheiro que ratos e umidade estragam dez por cento dele todo ano.",
+   "legenda": "Imagina ter tanto dinheiro que ratos e umidade estragam dez por cento dele todo ano.",
+   "inicio": 0.35,
+   "duracao": 5.05,
+   "arquivo": "../roteiros/voz-cartel/frases/f01.aiff"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Era assim com Pablo Escobar, segundo o irmão dele.",
+   "legenda": "Era assim com Pablo Escobar, segundo o irmão dele.",
+   "inicio": 5.54,
+   "duracao": 3.194,
+   "arquivo": "../roteiros/voz-cartel/frases/f02.aiff"
+  },
+  {
+   "n": 3,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "No último nível, o chefão tem um problema que nenhum dinheiro resolve.",
+   "legenda": "No último nível, o chefão tem um problema que nenhum dinheiro resolve.",
+   "inicio": 8.875,
+   "duracao": 4.295,
+   "arquivo": "../roteiros/voz-cartel/frases/f03.aiff"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No nível um, você é o falcão: avisa quando a polícia chega. Tem falcão de catorze anos.",
+   "legenda": "No nível um, você é o falcão: avisa quando a polícia chega. Tem falcão de catorze anos.",
+   "inicio": 13.49,
+   "duracao": 5.99,
+   "arquivo": "../roteiros/voz-cartel/frases/f04.aiff"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "No nível dois, você é o sicário, um pistoleiro do cartel.",
+   "legenda": "No nível dois, você é o sicário, um pistoleiro do cartel.",
+   "inicio": 19.8,
+   "duracao": 3.831,
+   "arquivo": "../roteiros/voz-cartel/frases/f05.aiff"
+  },
+  {
+   "n": 6,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "No nível três, você é o chefe de praça: manda num território inteiro.",
+   "legenda": "No nível três, você é o chefe de praça: manda num território inteiro.",
+   "inicio": 23.951,
+   "duracao": 4.469,
+   "arquivo": "../roteiros/voz-cartel/frases/f06.aiff"
+  },
+  {
+   "n": 7,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "No nível quatro, você é o braço direito. O negócio usa avião, trem, submarino... e até túnel.",
+   "legenda": "No nível quatro, você é o braço direito. O negócio usa avião, trem, submarino... e até túnel.",
+   "inicio": 28.74,
+   "duracao": 6.513,
+   "arquivo": "../roteiros/voz-cartel/frases/f07.aiff"
+  },
+  {
+   "n": 8,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "No nível cinco, você é o chefão: a Forbes pôs Escobar na lista dos bilionários por sete anos seguidos.",
+   "legenda": "No nível cinco, você é o chefão: a Forbes pôs Escobar na lista dos bilionários por sete anos seguidos.",
+   "inicio": 35.572,
+   "duracao": 6.536,
+   "arquivo": "../roteiros/voz-cartel/frases/f08.aiff"
+  },
+  {
+   "n": 9,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Só que o chefão não dorme: El Tchapo espionava cinquenta celulares, até o da esposa.",
+   "legenda": "Só que o chefão não dorme: El Chapo espionava cinquenta celulares, até o da esposa.",
+   "inicio": 42.248,
+   "duracao": 5.737,
+   "arquivo": "../roteiros/voz-cartel/frases/f09.aiff"
+  },
+  {
+   "n": 10,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "E o técnico dele virou informante do FBI.",
+   "legenda": "E o técnico dele virou informante do FBI.",
+   "inicio": 48.126,
+   "duracao": 2.624,
+   "arquivo": "../roteiros/voz-cartel/frases/f10.aiff"
+  },
+  {
+   "n": 11,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Escobar morreu num telhado, fugindo da polícia.",
+   "legenda": "Escobar morreu num telhado, fugindo da polícia.",
+   "inicio": 51.069,
+   "duracao": 3.056,
+   "arquivo": "../roteiros/voz-cartel/frases/f11.aiff"
+  },
+  {
+   "n": 12,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "El Tchapo vai passar a vida numa cela de dois metros por três e meio.",
+   "legenda": "El Chapo vai passar a vida numa cela de dois metros por três e meio.",
+   "inicio": 54.265,
+   "duracao": 4.226,
+   "arquivo": "../roteiros/voz-cartel/frases/f12.aiff"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Dos trinta e sete chefões mais procurados do México, vinte e cinco foram presos ou mortos em três anos.",
+   "legenda": "Dos trinta e sete chefões mais procurados do México, vinte e cinco foram presos ou mortos em três anos.",
+   "inicio": 58.631,
+   "duracao": 6.364,
+   "arquivo": "../roteiros/voz-cartel/frases/f13.aiff"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer subir?",
+   "legenda": "Ainda quer subir?",
+   "inicio": 65.135,
+   "duracao": 1.024,
+   "arquivo": "../roteiros/voz-cartel/frases/f14.aiff"
+  }
+ ]
+}

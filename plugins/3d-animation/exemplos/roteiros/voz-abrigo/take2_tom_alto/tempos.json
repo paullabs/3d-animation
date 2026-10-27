@@ -1,0 +1,117 @@
+{
+ "titulo": "O abrigo",
+ "voz": "ElevenLabs lucas_take2.wav",
+ "total": 73.31,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Quando a sirene tocou, eu larguei a bicicleta e corri pro abrigo, no fim da rua. O céu ficou branco na mesma hora.",
+   "legenda": "Quando a sirene tocou, eu larguei a bicicleta e corri pro abrigo, no fim da rua. O céu ficou branco na mesma hora.",
+   "inicio": 0.318,
+   "duracao": 6.482,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "O Zé foi o último a entrar e trancou a porta. Do lado de fora, o povo batia e gritava, pedindo pra entrar. Ele não abriu.",
+   "legenda": "O Zé foi o último a entrar e trancou a porta. Do lado de fora, o povo batia e gritava, pedindo pra entrar. Ele não abriu.",
+   "inicio": 7.12,
+   "duracao": 7.22,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "Lá dentro tinha comida, água e luz. Por uns dias, a gente se sentiu seguro.",
+   "legenda": "Lá dentro tinha comida, água e luz. Por uns dias, a gente se sentiu seguro.",
+   "inicio": 14.72,
+   "duracao": 4.62,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Só que a comida foi acabando. A gente comia um pouco menos a cada dia, e já dava pra ver que não ia dar pra todo mundo.",
+   "legenda": "Só que a comida foi acabando. A gente comia um pouco menos a cada dia, e já dava pra ver que não ia dar pra todo mundo.",
+   "inicio": 19.6,
+   "duracao": 6.78,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Na terceira semana, o banheiro entupiu, e o cheiro ruim tomou conta do abrigo.",
+   "legenda": "Na terceira semana, o banheiro entupiu, e o cheiro ruim tomou conta do abrigo.",
+   "inicio": 26.38,
+   "duracao": 5.52,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Aí a Pipoca, a nossa porquinha-da-índia, sumiu. Ninguém falou nada. Mas, naquela noite, tinha carne no jantar, e ninguém teve coragem de perguntar de quê.",
+   "legenda": "Aí a Pipoca, a nossa porquinha-da-índia, sumiu. Ninguém falou nada. Mas, naquela noite, tinha carne no jantar, e ninguém teve coragem de perguntar de quê.",
+   "inicio": 32.18,
+   "duracao": 10.1,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Os meses foram passando, e todo mundo ficou calado. O Zé e a Lu viviam brigando, mas a Lu foi ficando fraca e um dia morreu.",
+   "legenda": "Os meses foram passando, e todo mundo ficou calado. O Zé e a Lu viviam brigando, mas a Lu foi ficando fraca e um dia morreu.",
+   "inicio": 42.52,
+   "duracao": 8.22,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Agora o Zé passa o dia jogando baralho sozinho, pelos dois lados.",
+   "legenda": "Agora o Zé passa o dia jogando baralho sozinho, pelos dois lados.",
+   "inicio": 51.1,
+   "duracao": 3.92,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 9,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Quando só restava meio galão d'água, o Zé finalmente destrancou a porta.",
+   "legenda": "Quando só restava meio galão d'água, o Zé finalmente destrancou a porta.",
+   "inicio": 55.02,
+   "duracao": 4.76,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 10,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Lá fora, não tinha mais nada. Só cinza, poeira e silêncio. A minha bicicleta ainda estava lá, no mesmo lugar.",
+   "legenda": "Lá fora, não tinha mais nada. Só cinza, poeira e silêncio. A minha bicicleta ainda estava lá, no mesmo lugar.",
+   "inicio": 60.08,
+   "duracao": 7.46,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  },
+  {
+   "n": 11,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "A gente sobreviveu. Só pra ficar sozinho num mundo que acabou.",
+   "legenda": "A gente sobreviveu. Só pra ficar sozinho num mundo que acabou.",
+   "inicio": 68.0,
+   "duracao": 3.76,
+   "arquivo": "../roteiros/voz-abrigo/narracao.wav"
+  }
+ ]
+}

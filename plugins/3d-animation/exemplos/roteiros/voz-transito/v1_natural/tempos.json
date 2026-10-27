@@ -1,0 +1,137 @@
+{
+ "titulo": "Por que o trânsito trava do nada na Marginal?",
+ "voz": "ElevenLabs voz.mp3",
+ "total": 90.6,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Você já ficou parado na Marginal Pinheiros, em São Paulo, e quando chegou lá na frente não tinha nada? Nem batida, nem obra.",
+   "legenda": "Você já ficou parado na Marginal Pinheiros, em São Paulo, e quando chegou lá na frente não tinha nada? Nem batida, nem obra.",
+   "inicio": 0.364,
+   "duracao": 7.496,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Então por que parou? Uns minutos antes, lá na frente, um único carro deu uma freada forte.",
+   "legenda": "Então por que parou? Uns minutos antes, lá na frente, um único carro deu uma freada forte.",
+   "inicio": 8.26,
+   "duracao": 5.9,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "Olha a pista andando normal. Aí um carro, no meio de todo mundo, pisa forte no freio e quase para.",
+   "legenda": "Olha a pista andando normal. Aí um carro, no meio de todo mundo, pisa forte no freio e quase para.",
+   "inicio": 14.78,
+   "duracao": 6.8,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "O de trás vê a luz de freio, mas demora pra reagir e precisa frear com mais força ainda.",
+   "legenda": "O de trás vê a luz de freio, mas demora pra reagir e precisa frear com mais força ainda.",
+   "inicio": 22.22,
+   "duracao": 5.38,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "O próximo faz o mesmo. Em poucos segundos tem carro parado no meio da pista, sem motivo nenhum.",
+   "legenda": "O próximo faz o mesmo. Em poucos segundos tem carro parado no meio da pista, sem motivo nenhum.",
+   "inicio": 27.9,
+   "duracao": 6.22,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Só que o primeiro carro já voltou a andar. A fila continua, porque cada motorista demora pra sair do lugar.",
+   "legenda": "Só que o primeiro carro já voltou a andar. A fila continua, porque cada motorista demora pra sair do lugar.",
+   "inicio": 34.56,
+   "duracao": 6.5,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "E ela não fica parada: quem está na frente vai embora e quem chega por último vira o novo fim. A fila anda pra trás.",
+   "legenda": "E ela não fica parada: quem está na frente vai embora e quem chega por último vira o novo fim. A fila anda pra trás.",
+   "inicio": 41.28,
+   "duracao": 8.4,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Por isso você anda um pouco, para, anda de novo: é a onda daquela freada passando por você.",
+   "legenda": "Por isso você anda um pouco, para, anda de novo: é a onda daquela freada passando por você.",
+   "inicio": 49.94,
+   "duracao": 5.96,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 9,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Isso acontece quando a pista tá cheia e os carros ficam colados, como a Marginal no horário de pico.",
+   "legenda": "Isso acontece quando a pista tá cheia e os carros ficam colados, como a Marginal no horário de pico.",
+   "inicio": 55.9,
+   "duracao": 5.84,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 10,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "O que ajuda é deixar espaço pro carro da frente. Assim você freia mais suave, e a freada chega mais fraca em quem vem atrás.",
+   "legenda": "O que ajuda é deixar espaço pro carro da frente. Assim você freia mais suave, e a freada chega mais fraca em quem vem atrás.",
+   "inicio": 62.14,
+   "duracao": 7.6,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 11,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Um jeito fácil: o carro da frente passa num poste e você conta dois segundos. Se chegar antes, tá colado demais.",
+   "legenda": "Um jeito fácil: o carro da frente passa num poste e você conta dois segundos. Se chegar antes, tá colado demais.",
+   "inicio": 70.28,
+   "duracao": 7.18,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Da próxima vez que a Marginal travar do nada, lembra: o motivo foi uma freada que já passou.",
+   "legenda": "Da próxima vez que a Marginal travar do nada, lembra: o motivo foi uma freada que já passou.",
+   "inicio": 78.04,
+   "duracao": 6.08,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  },
+  {
+   "n": 13,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+   "legenda": "E você, onde o trânsito mais trava do nada? Comenta aqui.",
+   "inicio": 84.58,
+   "duracao": 4.36,
+   "arquivo": "roteiros/voz-transito/narracao.wav"
+  }
+ ]
+}

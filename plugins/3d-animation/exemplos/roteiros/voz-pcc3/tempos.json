@@ -1,0 +1,148 @@
+{
+ "titulo": "Você acabou de entrar no PCC",
+ "voz": "Luciana",
+ "taxa": 200,
+ "total": 64.76,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Você acabou de entrar no PCC. Seu salário: até mil e duzentos reais por dia.",
+   "legenda": "Você acabou de entrar no PCC. Seu salário: até R$ 1.200 por dia.",
+   "inicio": 0.35,
+   "duracao": 5.239,
+   "arquivo": "../roteiros/voz-pcc3/frases/f01.aiff"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Cada degrau paga mais, mas tem mais risco.",
+   "legenda": "Cada degrau paga mais, mas tem mais risco.",
+   "inicio": 5.729,
+   "duracao": 2.838,
+   "arquivo": "../roteiros/voz-pcc3/frases/f02.aiff"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No começo, você fica com quinze por cento do que o ponto vende no seu turno.",
+   "legenda": "No começo, você fica com quinze por cento do que o ponto vende no seu turno.",
+   "inicio": 8.887,
+   "duracao": 4.539,
+   "arquivo": "../roteiros/voz-pcc3/frases/f03.aiff"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "E é você que está na rua quando a polícia chega.",
+   "legenda": "E é você que está na rua quando a polícia chega.",
+   "inicio": 13.565,
+   "duracao": 2.728,
+   "arquivo": "../roteiros/voz-pcc3/frases/f04.aiff"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Virou gerente: cinco por cento, num ponto que pode faturar setecentos mil reais por semana.",
+   "legenda": "Virou gerente: 5%, num ponto que pode faturar R$ 700 mil por semana.",
+   "inicio": 16.613,
+   "duracao": 5.772,
+   "arquivo": "../roteiros/voz-pcc3/frases/f05.aiff"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "E tem policial que cobra pra fingir que não viu: quarenta e dois PMs foram condenados por isso.",
+   "legenda": "E tem policial que cobra pra fingir que não viu: 42 PMs foram condenados por isso.",
+   "inicio": 22.526,
+   "duracao": 5.77,
+   "arquivo": "../roteiros/voz-pcc3/frases/f06.aiff"
+  },
+  {
+   "n": 7,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Virou membro: agora é você que paga, novecentos e cinquenta reais por mês.",
+   "legenda": "Virou membro: agora é você que paga, R$ 950 por mês.",
+   "inicio": 28.616,
+   "duracao": 4.925,
+   "arquivo": "../roteiros/voz-pcc3/frases/f07.aiff"
+  },
+  {
+   "n": 8,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Atrasou? O tribunal do crime pune com surra, braço quebrado ou morte.",
+   "legenda": "Atrasou? O tribunal do crime pune com surra, braço quebrado ou morte.",
+   "inicio": 33.681,
+   "duracao": 4.449,
+   "arquivo": "../roteiros/voz-pcc3/frases/f08.aiff"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Chegou a chefe de setor: muito dinheiro passa pela sua mão.",
+   "legenda": "Chegou a chefe de setor: muito dinheiro passa pela sua mão.",
+   "inicio": 38.45,
+   "duracao": 3.738,
+   "arquivo": "../roteiros/voz-pcc3/frases/f09.aiff"
+  },
+  {
+   "n": 10,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Isso dá inveja: um tesoureiro acusado de desviar cinco milhões foi fuzilado na porta de casa.",
+   "legenda": "Isso dá inveja: um tesoureiro acusado de desviar R$ 5 milhões foi fuzilado na porta de casa.",
+   "inicio": 42.328,
+   "duracao": 5.782,
+   "arquivo": "../roteiros/voz-pcc3/frases/f10.aiff"
+  },
+  {
+   "n": 11,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "No topo, você divide com poucos oitenta por cento do dinheiro de cada ponto.",
+   "legenda": "No topo, você divide com poucos oitenta por cento do dinheiro de cada ponto.",
+   "inicio": 48.429,
+   "duracao": 4.643,
+   "arquivo": "../roteiros/voz-pcc3/frases/f11.aiff"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Mas até lá em cima tem traição: em 2024, chefes mandaram matar o próprio líder.",
+   "legenda": "Mas até lá em cima tem traição: em 2024, chefes mandaram matar o próprio líder.",
+   "inicio": 53.213,
+   "duracao": 6.118,
+   "arquivo": "../roteiros/voz-pcc3/frases/f12.aiff"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "E dos quinze chefes do topo, só um está solto.",
+   "legenda": "E dos quinze chefes do topo, só um está solto.",
+   "inicio": 59.651,
+   "duracao": 3.03,
+   "arquivo": "../roteiros/voz-pcc3/frases/f13.aiff"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer subir?",
+   "legenda": "Ainda quer subir?",
+   "inicio": 62.821,
+   "duracao": 1.024,
+   "arquivo": "../roteiros/voz-pcc3/frases/f14.aiff"
+  }
+ ]
+}

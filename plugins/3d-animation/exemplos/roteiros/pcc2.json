@@ -1,0 +1,134 @@
+{
+ "titulo": "Quanto ganha cada nível do PCC",
+ "objetivo": "Mostrar, degrau por degrau, quanto cada função do PCC ganha e quanto arrisca, numa balança que sobe dos dois lados até o topo.",
+ "clima": "paleta petróleo e coral; balança ganho × risco que acompanha a subida",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Gancho",
+   "falas": [
+    {
+     "fala": "Imagina ganhar mil e duzentos reais por dia vendendo droga.",
+     "legenda": "Imagina ganhar R$ 1.200 por dia vendendo droga.",
+     "fonte": "Grampo da investigação do MPSP e da Polícia Civil (2021), publicado pelo Metrópoles em 22/02/2025: o vendedor diz tirar até R$ 1.200 por dia"
+    },
+    {
+     "fala": "No PCC, esse é só o primeiro de cinco degraus. E a cada degrau, o dinheiro sobe... e o risco também.",
+     "fonte": "Simplificação do vídeo: a facção não é uma pirâmide rígida (Feltran; Paes Manso)"
+    }
+   ],
+   "visual": [
+    "Ele de uniforme listrado com um X no peito. A balança aparece: prato GANHO e prato RISCO."
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "O vendedor",
+   "termo": "vapor",
+   "falas": [
+    {
+     "fala": "No nível um, você vende: fica com quinze por cento de cada turno de doze horas.",
+     "fonte": "Metrópoles, 22/02/2025 (grampo de 2021): 15% de R$ 5 mil a R$ 8 mil por turno de 12 h"
+    },
+    {
+     "fala": "Mas metade dos jovens internados na Fundação Casa estava lá por tráfico.",
+     "fonte": "Fundação Casa via Jovem Pan, 22/05/2021: 2.670 de 5.269 internos por tráfico"
+    }
+   ],
+   "visual": [
+    "GANHO: 15% de uma pilha de notas. RISCO: grade de internação."
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "O gerente",
+   "termo": "gerente de biqueira",
+   "falas": [
+    {
+     "fala": "No nível dois, você é o gerente do ponto e fica com cinco por cento.",
+     "fonte": "Planilhas apreendidas pelo MP-SP e pela Polícia Civil, Folha via Jornal de Brasília, 12/11/2023: 80% cúpula, 15% funcionários, 5% gerente"
+    },
+    {
+     "fala": "Parece pouco, mas tem ponto que fatura setecentos mil reais por semana.",
+     "legenda": "Parece pouco, mas tem ponto que fatura R$ 700 mil por semana.",
+     "fonte": "Operação Auditoria, Polícia Civil, Metrópoles 22/10/2025"
+    }
+   ],
+   "visual": [
+    "GANHO sobe. RISCO na tela (sem fala): 38 mandados de prisão numa só operação (Operação Auditoria, 21/10/2025)."
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O membro",
+   "termo": "irmão batizado",
+   "falas": [
+    {
+     "fala": "No nível três, você vira membro. E aqui você não recebe: você paga novecentos e cinquenta reais por mês.",
+     "legenda": "No nível três, você vira membro. E aqui você não recebe: você paga R$ 950 por mês.",
+     "fonte": "Documentos internos apreendidos em 2018 (Estadão; InSight Crime, 05/06/2018): R$ 950 por mês para quem está solto"
+    },
+    {
+     "fala": "Se errar, vai pro tribunal do crime, e a pena pode ser a morte.",
+     "fonte": "BNews, 22/04/2025: penas de advertência a execução"
+    }
+   ],
+   "visual": [
+    "GANHO desce (ele paga). RISCO: o martelo do tribunal."
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O chefe de setor",
+   "termo": "sintonia",
+   "falas": [
+    {
+     "fala": "No nível quatro, você chefia um setor, como o do dinheiro.",
+     "fonte": "Organograma da Polícia Civil (Dipol), fev/2026: setores Progresso (droga), Padaria (dinheiro) etc."
+    },
+    {
+     "fala": "E de oitenta e sete chefes de setor, cinquenta e dois estão presos.",
+     "fonte": "Dipol, fev/2026, via Jornal de Brasília/Folhapress 19/02/2026: 14 sintonias, 87 líderes, 52 presos"
+    }
+   ],
+   "visual": [
+    "RISCO: 52 de 87 com grade."
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "O topo",
+   "termo": "Sintonia Final",
+   "falas": [
+    {
+     "fala": "No nível cinco, você está no topo: oitenta por cento do dinheiro das bocas sobe pra cúpula.",
+     "fonte": "Planilhas apreendidas, Folha via Jornal de Brasília, 12/11/2023: 80% para a cúpula nas biqueiras próprias"
+    },
+    {
+     "fala": "Segundo um promotor, a facção movimenta cerca de um bilhão de dólares por ano.",
+     "legenda": "Segundo um promotor, a facção movimenta cerca de US$ 1 bilhão por ano.",
+     "fonte": "Lincoln Gakiya (MP-SP) à CNN Brasil, 06/12/2024: estimativa"
+    }
+   ],
+   "visual": [
+    "GANHO no máximo."
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "Mas dos quinze chefes do topo, só um está solto.",
+     "fonte": "Dipol, fev/2026 (SBT News; Folhapress): 15 da Sintonia Final, 1 solto"
+    },
+    {
+     "fala": "Ainda quer subir?"
+    }
+   ],
+   "visual": [
+    "A balança tomba para o lado do RISCO. Na tela (sem fala): o mais famoso está preso desde 1999."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+---
+name: feedback-estilo-personagem
+description: O que o usuário recusou e aprovou no design do personagem animado (reels narrados)
+metadata:
+  node_type: memory
+  type: feedback
+  originSessionId: d1b4e7f8-2ddb-474e-b1af-385450f86c74
+  modified: 2026-10-22T05:55:58.376Z
+---
+
+Recusado: personagem em pedaços (primitivas soltas), cartoon de olhos grandes ("ridículo"), manequim sem traços humanos, toon 3D com volume, câmera girando, poses incoerentes (sentado de costas para onde olha, mão no capuz em vez do queixo), pupila preta no olho.
+Aprovado como direção: 2D falso com parallax no estilo @IfverseTales, corpo simples e rosto muito expressivo.
+Pedidos de 2026-10-22: mão só arredondada (sem dedos), olhos grandes, movimento suave com conceitos clássicos de animação (caminhada pelo método do contato, braço oposto à perna, pé cravado sem escorregar, antecipação e assentamento) — "usar os conceitos do estilo e não ficar inventando". O motor está em kit3d/motion.py.
+Depois ele achou o movimento "duro, carregado pelas pernas, costas puxadas": a versão atual (kit3d/anim.py, classe Timeline) usa molas com amortecimento para tronco, cabeça, braços, cotovelos, punhos, capuz e cordões, quadril em onda suave com velocidade variável e expressões com bounce leve. Conferir sempre as curvas (plot_curves.py) e quadros com câmera parada antes de entregar.
+Ainda "levado pelas pernas" na 2ª rodada: a causa medida (measure.py) era a cabeça oscilar MAIS que o quadril. Correção: peito com trajetória própria (suavizada, 60% do sobe-e-desce, 2 quadros atrasada), coluna absorve a diferença, cabeça compensa a inclinação, braços descontam a inclinação (gravidade). Meta: cabeça mais suave que o quadril (vai e vem ≈2 cm, sobe e desce ≈3 cm vs 5 cm do quadril). Causa real do "costas inclinadas para trás": bug de sinal — ossos que apontam para cima (torso, chest, neck, head, hood) precisam do sinal oposto aos que apontam para baixo (agora corrigido em heroi.py e anim.py; + = para frente em todos). Conferir sempre a direção em número (ombro à frente do quadril) e em quadro, não só a suavidade. 3ª rodada ("pesada, não sincronizada, blusa feia"): braço estava 5 quadros atrasado da perna (meta 1–2; medir com kit3d/sync.py) e quadril descia 5 cm (agora 3 cm). Braços filhos do peito: para pendurar na vertical, compensar com +inclinação do tronco (não −). Moletom v4: peça única longa até o meio da coxa, luz/sombra POR DENTRO da forma (clip), contorno fino 0.0055, barra/bolso/dobra do capuz em linha vermelha escura. 4ª rodada: braço não acompanhava a blusa ("blusa virou mola"), blusa sobrando entre as pernas ao sentar/correr, braço mal encaixado. Solução = deformador estilo Harmony (heroi._deform_hoodie, Hook modifiers): topo da blusa segue o peito, barra frente/trás segue juntas hemF/hemB guiadas pelas coxas (hem_from_legs); ombros mais baixos e para dentro; compressão da coluna limitada a ±1,2 cm. 5ª rodada: ele disse que o IfverseTales NÃO é referência de movimento profissional (só de estilo visual). Padrão de movimento = profissionais (Williams/Animator's Survival Kit, AnimSchool etc.), resumido com números em TECNICAS-ANIMACAO.md na raiz do projeto — consultar antes de animar. Pedido anterior: redesenhar o moletom e os traços, depois do movimento.
+
+**Why:** ele quer histórias narradas com um personagem fixo que entra em várias situações; o apelo vem das expressões, e qualquer indício de 3D ou de recorte de papel quebra o estilo.
+**How to apply:** antes de mostrar, conferir poses e expressões em imagem (ficha) e só então animar; mostrar testes curtos em vez de vídeo longo. Ver [[estilo-ifversetales-2d-falso]].

@@ -1,0 +1,50 @@
+{
+ "titulo": "Os 5 níveis até o topo do PCC",
+ "objetivo": "Mostrar, em cinco degraus, como a facção se organiza e quanto custa chegar ao topo.",
+ "clima": "drama (noite) no gancho e no final; manhã fria nos níveis do meio",
+ "blocos": [
+  {"nivel": 0, "nome": "Gancho",
+   "falas": [
+     {"fala": "Imagina comandar quarenta mil pessoas de dentro de uma cela.", "fonte": "MP-SP e CNN Brasil, 2024: até 40 mil membros"},
+     {"fala": "A polícia diz que o chefe do PCC faz isso.", "fonte": "Estadão, 2026: o chefe nega ser o líder"},
+     {"fala": "No último dos cinco níveis, tem um número que parece mentira."}],
+   "visual": ["Noite, chuva. Ele sozinho numa cela pequena, uma fresta de luz; da cela saem fios finos que se espalham até 40 mil bonequinhos (a câmera recua até eles virarem uma mancha).",
+              "A escada de 5 degraus sobe do chão; o selo NÍVEL 0/5 aparece. Na última frase, um '?' pisca no degrau 5."]},
+  {"nivel": 1, "nome": "O ajudante", "termo": "companheiro",
+   "falas": [
+     {"fala": "No nível um, você é ajudante: faz serviço pra facção, mas não é um deles.", "fonte": "Diário de Pernambuco, 2024 (companheiro presta serviços sem ser membro)"}],
+   "visual": ["Selo NÍVEL 1 · AJUDANTE. Esquina de manhã: ele, em cinza, do lado de fora de um círculo de giz no chão, carregando uma caixa e olhando para os lados ('nervoso')."]},
+  {"nivel": 2, "nome": "O membro", "termo": "irmão, depois do batismo",
+   "falas": [
+     {"fala": "No nível dois, você vira membro: um padrinho te indica e responde pelos seus erros.", "fonte": "VICE, 2018"},
+     {"fala": "E você paga mensalidade.", "fonte": "InSight Crime, 2020 (a mensalidade tem o apelido de cebola)"}],
+   "visual": ["Selo NÍVEL 2 · MEMBRO. Uma silhueta (o padrinho) põe a mão no ombro dele e entrega uma ficha; ele entra no círculo de giz. Se ele tropeça, o padrinho leva o tombo junto.",
+              "Calendário: a cada mês cai uma moeda do bolso dele ('desconfiado')."]},
+  {"nivel": 3, "nome": "O fiscal", "termo": "disciplina",
+   "falas": [
+     {"fala": "No nível três, você vira fiscal de uma área. Quem quebra as regras vai pro tribunal do crime, e a pena pode ser a morte.", "fonte": "InSight Crime, 2020; BNews, 2025 (a pena vai de advertência a execução)"}],
+   "visual": ["Selo NÍVEL 3 · FISCAL. Mapa de um bairro visto de cima; ele grande sobre o mapa, braços cruzados ('arrogante').",
+              "Martelo de juiz bate (estalo); uma régua de pena vai de 'advertência' até uma cruz e o fundo escurece."]},
+  {"nivel": 4, "nome": "O chefe de setor", "termo": "sintonia",
+   "falas": [
+     {"fala": "No nível quatro, você chefia um setor, como numa empresa.", "fonte": "Polícia Civil de SP, via Estadão, 2026"},
+     {"fala": "Tem setor da droga, do dinheiro, dos advogados... e até das redes sociais.", "fonte": "Estadão, 17/2/2026 (Progresso, Padaria, Gravatas e Internet e Redes Sociais)"}],
+   "visual": ["Selo NÍVEL 4 · CHEFE DE SETOR. Organograma de empresa monta caixa por caixa: pacote, moedas, gravata, ícone de rede social com um coração.",
+              "Ele aponta para cada caixa no ritmo da fala ('esperto')."]},
+  {"nivel": 5, "nome": "O topo", "termo": "sintonia final",
+   "falas": [
+     {"fala": "No nível cinco, você está no topo."},
+     {"fala": "Uma investigação apontou que postos de gasolina ligados à facção movimentaram cinquenta e dois bilhões de reais em cinco anos.", "fonte": "Operação Carbono Oculto (InfoMoney, 2025): mais de 1.000 postos, 2020 a 2024; é dinheiro movimentado, não lucro"},
+     {"fala": "Em notas de cem, seria uma pilha de mais de cinco Everests.", "fonte": "conta: 520 milhões de notas × 0,10 a 0,11 mm = 52 a 57 km; Everest = 8,8 km"}],
+   "visual": ["Selo NÍVEL 5 · TOPO. O topo da escada acende em dourado; ele chega lá ('olhos de cifrão').",
+              "Postos de gasolina se multiplicam numa grade, com a legenda 'mais de 1.000 postos' na tela.",
+              "Notas de R$ 100 empilhadas sobem e passam de um prédio, de um avião (10 km) e do Everest (8,8 km) até a marca de 50 km; ele minúsculo embaixo ('choque')."]},
+  {"nivel": 6, "nome": "O preço",
+   "falas": [
+     {"fala": "Mas o topo tem um preço: dos chefes de lá, só um está solto, segundo a polícia.", "fonte": "Dipol/Polícia Civil de SP via SBT News e Folha, 2/2026: dos 15 da Sintonia Final, só um em liberdade"},
+     {"fala": "Ainda quer subir?"}],
+   "visual": ["Noite. A escada fica cinza. 15 bonequinhos no topo dela: 14 ganham grades na frente, um a um; só um fica sem grade.",
+              "Corte para ele numa cela com uma câmera piscando.",
+              "Ele olha para a câmera na pergunta final ('frio'). Corte seco. Fim."]}
+ ]
+}

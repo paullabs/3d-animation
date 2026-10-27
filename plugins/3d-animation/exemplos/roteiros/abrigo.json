@@ -1,0 +1,145 @@
+{
+ "titulo": "O abrigo",
+ "tipo": "narrativa em primeira pessoa (POV)",
+ "referencia": "Vídeo de @zackdfilms1 (X, 72 s): sobrevivência num bunker, narrado em primeira pessoa e POV. Usamos só a ideia do gênero (abrigo, declínio lento, final amargo); história, personagens, detalhes e falas são nossos.",
+ "objetivo": "Reel de ~65 s, 9:16, nosso estilo (2D falso dentro de salas 3D reais). Versão bem próxima do vídeo de referência, com nomes fáceis e algumas mudanças: POV de quem conta, porta com a vizinhança batendo, lata/água/luz, prato que encolhe, banheiro entupido, o bichinho que some, o baralho jogado sozinho (no lugar da cadeira), meio galão de água, porta aberta, deserto, e uma frase final nossa. Cada fala tem a imagem escrita.",
+ "voz": "Lucas (ElevenLabs eleven_v4), grave, calmo, emoção por frase",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "A corrida",
+   "falas": [
+    {
+     "fala": "Quando a sirene tocou, eu larguei a bicicleta e corri pro abrigo, no fim da rua. O céu ficou branco na mesma hora.",
+     "legenda": "Quando a sirene tocou, eu larguei a bicicleta e corri pro abrigo, no fim da rua. O céu ficou branco na mesma hora.",
+     "selo_na_tela": "DIA 0",
+     "imagem": "POV (os olhos de quem conta): mãos no guidão de uma bicicleta de cesta, sino cromado, corrida por uma rua de bairro cinza. À frente correm o Zé (camisa verde) e a Lu (jaqueta jeans). A porta redonda do abrigo, enterrada na colina, com luz amarela por dentro. O céu estoura em branco e a tela clareia.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    },
+    {
+     "fala": "O Zé foi o último a entrar e trancou a porta. Do lado de fora, o povo batia e gritava, pedindo pra entrar. Ele não abriu.",
+     "legenda": "O Zé foi o último a entrar e trancou a porta. Do lado de fora, o povo batia e gritava, pedindo pra entrar. Ele não abriu.",
+     "selo_na_tela": "DIA 0",
+     "imagem": "POV de dentro: a porta de cofre; o Zé de costas, forçando a roda. Pela janelinha redonda, mãos e rostos (a dona da padaria, o rapaz do mercado) batendo; 'BANG!' em letra de gibi a cada pancada. Corte seco para silêncio.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "Dia 1",
+   "falas": [
+    {
+     "fala": "Lá dentro tinha comida, água e luz. Por uns dias, a gente se sentiu seguro.",
+     "legenda": "Lá dentro tinha comida, água e luz. Por uns dias, a gente se sentiu seguro.",
+     "selo_na_tela": "DIA 1",
+     "imagem": "Varredura lenta do abrigo: prateleira de latas (8 por andar), galões azuis, três lâmpadas acesas. Mesa posta com o Zé, a Lu e a Rita rindo; a Pipoca, uma porquinho-da-índia laranja de suéter vermelho de tricô, cheirando um prato (a única cor viva do abrigo verde-água e bronze). Calendário de giz na parede: um risco.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "A comida",
+   "falas": [
+    {
+     "fala": "Só que a comida foi acabando. A gente comia um pouco menos a cada dia, e já dava pra ver que não ia dar pra todo mundo.",
+     "legenda": "Só que a comida foi acabando. A gente comia um pouco menos a cada dia, e já dava pra ver que não ia dar pra todo mundo.",
+     "selo_na_tela": "DIA 21",
+     "imagem": "A mesma prateleira em três tempos (fusão): cheia de latas, pela metade, quase vazia. O prato do POV: primeiro cheio, depois com metade, depois só uma colher de comida. Os riscos de giz na parede se multiplicam. O Zé confere as latas num caderno e risca. A Lu divide uma lata com a ponta da faca.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    },
+    {
+     "fala": "Na terceira semana, o banheiro entupiu, e o cheiro ruim tomou conta do abrigo.",
+     "legenda": "Na terceira semana, o banheiro entupiu, e o cheiro ruim tomou conta do abrigo.",
+     "selo_na_tela": "DIA 21",
+     "imagem": "Porta do banheiro entreaberta; vaso transbordando; linhas verdes ondulantes de cheiro (efeito 2D) sobem e mancham o azulejo. O Zé e a Lu tapam o nariz e discutem sem som. Mosca girando no lustre.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O bichinho",
+   "falas": [
+    {
+     "fala": "Aí a Pipoca, a nossa porquinha-da-índia, sumiu. Ninguém falou nada. Mas, naquela noite, tinha carne no jantar, e ninguém teve coragem de perguntar de quê.",
+     "legenda": "Aí a Pipoca, a nossa porquinha-da-índia, sumiu. Ninguém falou nada. Mas, naquela noite, tinha carne no jantar, e ninguém teve coragem de perguntar de quê.",
+     "selo_na_tela": "DIA 60",
+     "imagem": "A gaiolinha aberta, vazia, com o suéter vermelho dobrado no fundo. A mão do POV levanta o suéter. Corte para a mesa: pratos com pouco; ninguém olha ninguém; a Rita empurra o prato pro lado e chora sem som.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "Quieto",
+   "falas": [
+    {
+     "fala": "Os meses foram passando, e todo mundo ficou calado. O Zé e a Lu viviam brigando, mas a Lu foi ficando fraca e um dia morreu.",
+     "legenda": "Os meses foram passando, e todo mundo ficou calado. O Zé e a Lu viviam brigando, mas a Lu foi ficando fraca e um dia morreu.",
+     "selo_na_tela": "DIA 200",
+     "imagem": "Abrigo mais escuro: só uma lâmpada acesa das três. Os três sentados em pontas diferentes da sala, sem se olhar, magros, de roupa suja. Calendário de giz cobrindo uma parede inteira.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    },
+    {
+     "fala": "Agora o Zé passa o dia jogando baralho sozinho, pelos dois lados.",
+     "legenda": "Agora o Zé passa o dia jogando baralho sozinho, pelos dois lados.",
+     "selo_na_tela": "DIA 300",
+     "imagem": "A cama da Lu com o cobertor dobrado e a jaqueta jeans dela pendurada na cadeira. O Zé de camisa rasgada joga uma carta para ele e outra para a cadeira da jaqueta, e fala baixinho com ela. A Rita observa de longe, abraçada nos joelhos.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "A porta",
+   "falas": [
+    {
+     "fala": "Quando só restava meio galão d'água, o Zé finalmente destrancou a porta.",
+     "legenda": "Quando só restava meio galão d'água, o Zé finalmente destrancou a porta.",
+     "selo_na_tela": "DIA 700",
+     "imagem": "O último galão com um dedo de água; o Zé bebe do gargalo, olha o POV e vai até a porta de cofre; gira a roda com as duas mãos; faíscas de ferrugem; a luz branca entra pela fresta e cega a câmera.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    },
+    {
+     "fala": "Lá fora, não tinha mais nada. Só cinza, poeira e silêncio. A minha bicicleta ainda estava lá, no mesmo lugar.",
+     "legenda": "Lá fora, não tinha mais nada. Só cinza, poeira e silêncio. A minha bicicleta ainda estava lá, no mesmo lugar.",
+     "selo_na_tela": "DIA 700",
+     "imagem": "POV saindo: planície de poeira, postes tortos, o bairro em pedaços; ao pé da porta, a bicicleta de antes, cinza de pó, com o sino. As mãos (agora mais magras, com um relógio sem ponteiro) tocam o sino: um 'trim' sem eco. Esqueletos entre os escombros, de longe.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "A gente sobreviveu. Só pra ficar sozinho num mundo que acabou.",
+     "legenda": "A gente sobreviveu. Só pra ficar sozinho num mundo que acabou.",
+     "selo_na_tela": "DIA 700",
+     "imagem": "Plano aberto, de fora: o abrigo pequeno na colina, a porta aberta com a luz amarela, o Zé e a Rita parados lado a lado de costas, magros, rasgados, olhando o vazio, e a bicicleta entre eles. A câmera recua devagar até o abrigo virar um ponto. Tela escurece.",
+     "fonte": "Ficção; sequência de gênero (abrigo, declínio, final amargo). Falas, nomes e vários detalhes são nossos (não é tradução do vídeo de referência)."
+    }
+   ]
+  }
+ ],
+ "personagens": {
+  "Zé": "o que gira a roda da porta; camisa verde; teimoso, vira o que mais sofre",
+  "Lu": "jaqueta jeans, depois regata cinza; briga com o Zé",
+  "Rita": "a mais nova do grupo; cabelo preso com uma tiara rosa",
+  "Pipoca": "porquinha-da-índia laranja, suéter vermelho de tricô",
+  "eu": "quem conta; só aparecem as mãos (POV)"
+ },
+ "mudancas_em_relacao_a_referencia": [
+  "nomes (Zé, Lu, Rita, Pipoca)",
+  "bicicleta e sino que voltam no fim",
+  "suéter vermelho do bichinho",
+  "baralho sozinho em vez de discutir com a cadeira",
+  "DIA n riscado de giz",
+  "frase final própria",
+  "todas as falas reescritas"
+ ],
+ "regra_de_texto": "Palavra simples e literal, MAS com o contexto e as ligações de quem conta uma história falando: quem, onde, por quê. Frases de 8 a 24 palavras; nada de telegrama. Teste: ler em voz alta e soar natural."
+}

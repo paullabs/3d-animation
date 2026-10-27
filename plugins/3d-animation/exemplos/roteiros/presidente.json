@@ -1,0 +1,111 @@
+{
+ "titulo": "Você acabou de virar um presidente corrupto do Brasil",
+ "objetivo": "Ficção: um presidente inventado sobe degrau por degrau usando esquemas REAIS e documentados de governos de lados diferentes (Mensalão, Petrobras, Odebrecht, orçamento secreto, joias). Nenhum degrau espelha um político só; o fim mostra o preço para quem já ocupou o cargo, com o status exato na Justiça.",
+ "voz": "ElevenLabs eleven_v4, Lucas - Deep & Profound Narrator, tags de emoção por frase, atempo 1,10",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Gancho",
+   "falas": [
+    {
+     "fala": "Você acabou de virar um presidente corrupto do Brasil. Mas o seu salário é o que menos importa: o dinheiro de verdade vem dos esquemas por fora."
+    },
+    {
+     "fala": "E quanto mais dinheiro você tenta ganhar... maior é o risco de ser pego."
+    }
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "Comprar o Congresso",
+   "falas": [
+    {
+     "fala": "Primeiro, você precisa de votos no Congresso, e começa a pagar deputados por fora. No Mensalão, foram denunciadas mesadas de trinta mil reais: cem salários mínimos da época, todo mês.",
+     "legenda": "Primeiro, você precisa de votos no Congresso, e começa a pagar deputados por fora. No Mensalão, foram denunciadas mesadas de 30 mil reais: 100 salários mínimos da época, todo mês.",
+     "fonte": "Mensalão: acusação de Roberto Jefferson à Folha (06/2005), via Congresso em Foco; é a versão do acusador, o STF não fixou valor padrão; proporção: salário mínimo de maio/2005 = R$ 300 (Lei 11.164/2005)"
+    },
+    {
+     "fala": "Só que o esquema foi descoberto, chegou ao Supremo e terminou com vinte e cinco condenados.",
+     "legenda": "Só que o esquema foi descoberto, chegou ao Supremo e terminou com 25 condenados.",
+     "fonte": "STF, AP 470 (ago-dez/2012): 25 condenados, 12 absolvidos; em 2014, 8 absolvidos só do crime de quadrilha"
+    }
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "A estatal",
+   "falas": [
+    {
+     "fala": "Agora você põe aliados nas estatais. Em cada contrato, de um a três por cento vai por fora. Parece pouco? Num contrato de um bilhão, são trinta milhões.",
+     "legenda": "Agora você põe aliados nas estatais. Em cada contrato, de 1% a 3% vai por fora. Parece pouco? Num contrato de 1 bilhão, são 30 milhões.",
+     "fonte": "MPF, ações de improbidade da Lava Jato (fev/2015), via Conjur: propina de 1% a 3% dos contratos da Petrobras, 2004 a 2012; proporção: conta simples sobre um contrato de R$ 1 bilhão"
+    },
+    {
+     "fala": "Até vir à tona: a Petrobras reconheceu seis bilhões em perdas com corrupção. É um milhão por dia, durante dezessete anos.",
+     "legenda": "Até vir à tona: a Petrobras reconheceu 6 bilhões em perdas com corrupção. É 1 milhão por dia, durante 17 anos.",
+     "fonte": "Petrobras, balanço de 2014 divulgado em 22/04/2015 (Form 20-F na SEC): baixa de R$ 6,194 bilhões, estimativa contábil; proporção: 6,194 bi ÷ 1 mi por dia = 17 anos"
+    }
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "A empreiteira",
+   "falas": [
+    {
+     "fala": "Depois vêm as empreiteiras. A Odebrecht tinha até um departamento só pra pagar propina: quase quatro bilhões de reais, em doze países.",
+     "legenda": "Depois vêm as empreiteiras. A Odebrecht tinha até um departamento só pra pagar propina: quase 4 bilhões de reais, em 12 países.",
+     "fonte": "Odebrecht, acordo com o DOJ (21/12/2016): cerca de US$ 788 milhões em propinas em 12 países, 2001 a 2016 (Conjur, OCCRP); proporção: US$ 788 mi × R$ 5,08 ≈ R$ 4 bi, ÷ 15 anos (2001-2016) ≈ R$ 730 mil por dia"
+    },
+    {
+     "fala": "Até que foi descoberta, e a conta voltou: mais de dezessete bilhões em multas.",
+     "legenda": "Até que foi descoberta, e a conta voltou: mais de 17 bilhões em multas.",
+     "fonte": "DOJ, 21/12/2016: pelo menos US$ 3,5 bilhões a EUA, Brasil e Suíça; em 2023 o STF (Toffoli) declarou imprestáveis provas dos sistemas da Odebrecht; US$ 3,5 bi × R$ 5,08 ≈ R$ 17,8 bi"
+    }
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O orçamento secreto",
+   "falas": [
+    {
+     "fala": "Agora você mexe no orçamento do país: quarenta e cinco bilhões em emendas, em três anos, sem dizer quem indicava. Uns quarenta milhões por dia.",
+     "legenda": "Agora você mexe no orçamento do país: 45 bilhões em emendas, em três anos, sem dizer quem indicava. Uns 40 milhões por dia.",
+     "fonte": "Emendas de relator RP9, 2020 a 2022: R$ 45 bi empenhados, R$ 53,5 bi autorizados (Siga Brasil, via Aos Fatos); proporção: 45 bi ÷ 1.095 dias ≈ 41 mi por dia"
+    },
+    {
+     "fala": "Até o Supremo declarar o esquema inconstitucional e mandar revelar os nomes.",
+     "fonte": "STF, ADPFs 850, 851, 854 e 1014 (19/12/2022), 6 a 5: inconstitucional"
+    }
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "O topo",
+   "falas": [
+    {
+     "fala": "Lá no topo, até presente vira problema: joias de dezesseis milhões barradas na mochila de um assessor. Mais de oitocentos anos de salário mínimo.",
+     "legenda": "Lá no topo, até presente vira problema: joias de 16 milhões barradas na mochila de um assessor. Mais de 800 anos de salário mínimo.",
+     "fonte": "Receita Federal em Guarulhos, 26/10/2021: estojo avaliado em cerca de R$ 16,5 milhões (Poder360); proporção: 16,5 mi ÷ (salário mínimo de 2025/2026 × 12) = 850 a 900 anos"
+    },
+    {
+     "fala": "E a investigação da polícia chegou até o presidente da época.",
+     "fonte": "PF indiciou o ex-presidente e mais 11 pessoas em 07/2024; a PGR pediu arquivamento em 05/03/2026 (Agência Brasil); sem denúncia"
+    }
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "No fim, das sete pessoas que foram presidente desde mil novecentos e noventa, quatro já foram presas. Uma por corrupção, uma por golpe... e duas acabaram absolvidas ou com o processo anulado.",
+     "legenda": "No fim, das 7 pessoas que foram presidente desde 1990, 4 já foram presas. Uma por corrupção, uma por golpe... e duas acabaram absolvidas ou com o processo anulado.",
+     "fonte": "Collor (condenado por corrupção, STF 2023, preso em 04/2025); Bolsonaro (condenado por golpe, STF 11/09/2025); Lula (preso 2018-2019, condenações anuladas em 2021); Temer (preso 2019, absolvido em 4 ações)"
+    },
+    {
+     "fala": "Ainda quer a faixa?"
+    }
+   ]
+  }
+ ]
+}

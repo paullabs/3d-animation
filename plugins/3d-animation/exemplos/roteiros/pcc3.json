@@ -1,0 +1,134 @@
+{
+ "titulo": "Você acabou de entrar no PCC",
+ "objetivo": "Mostrar, em segunda pessoa, quanto cada degrau do PCC paga e o que cada um custa: polícia, polícia corrupta, tribunal do crime, inveja e racha no topo.",
+ "clima": "paleta petróleo e coral; balança GANHO × RISCO que acompanha a subida; herói de uniforme listrado com X",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Gancho",
+   "falas": [
+    {
+     "fala": "Você acabou de entrar no PCC. Seu salário: até mil e duzentos reais por dia.",
+     "legenda": "Você acabou de entrar no PCC. Seu salário: até R$ 1.200 por dia.",
+     "fonte": "Grampo da investigação do MPSP e da Polícia Civil (2021), Metrópoles 22/02/2025: o vendedor diz tirar até R$ 1.200 por dia num turno de 12 h"
+    },
+    {
+     "fala": "Cada degrau paga mais, mas tem mais risco."
+    }
+   ],
+   "visual": [
+    "Ele de uniforme listrado com um X. A balança surge: prato GANHO e prato RISCO."
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "O ponto",
+   "termo": "vapor",
+   "falas": [
+    {
+     "fala": "No começo, você fica com quinze por cento do que o ponto vende no seu turno.",
+     "fonte": "Metrópoles, 22/02/2025 (grampo de 2021): 15% de R$ 5 mil a R$ 8 mil por turno"
+    },
+    {
+     "fala": "E é você que está na rua quando a polícia chega.",
+     "fonte": "Fundação Casa via Jovem Pan, 22/05/2021: metade dos internos estava lá por tráfico (na tela)"
+    }
+   ],
+   "visual": [
+    "GANHO: 15%. RISCO: sirene. Na tela: metade dos jovens da Fundação Casa estava lá por tráfico."
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "O gerente",
+   "termo": "gerente de biqueira",
+   "falas": [
+    {
+     "fala": "Virou gerente: cinco por cento, num ponto que pode faturar setecentos mil reais por semana.",
+     "legenda": "Virou gerente: 5%, num ponto que pode faturar R$ 700 mil por semana.",
+     "fonte": "Planilhas apreendidas (Folha via Jornal de Brasília, 12/11/2023): 5% ao gerente; Operação Auditoria (Metrópoles, 22/10/2025): ponto com R$ 700 mil em 7 dias"
+    },
+    {
+     "fala": "E tem policial que cobra pra fingir que não viu: quarenta e dois PMs foram condenados por isso.",
+     "legenda": "E tem policial que cobra pra fingir que não viu: 42 PMs foram condenados por isso.",
+     "fonte": "Operação Ubirajara, 22º Batalhão da PM: ConJur, 09/12/2019 (Justiça Militar condena 42 PMs que protegiam pontos do PCC)"
+    }
+   ],
+   "visual": [
+    "GANHO sobe. RISCO: o envelope por baixo da mesa."
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O membro",
+   "termo": "irmão batizado",
+   "falas": [
+    {
+     "fala": "Virou membro: agora é você que paga, novecentos e cinquenta reais por mês.",
+     "legenda": "Virou membro: agora é você que paga, R$ 950 por mês.",
+     "fonte": "Documentos internos apreendidos em 2018 (Estadão; InSight Crime, 05/06/2018)"
+    },
+    {
+     "fala": "Atrasou? O tribunal do crime pune com surra, braço quebrado ou morte.",
+     "fonte": "Metrópoles, 10/03/2025: o disciplina cobra dívidas; penas de espancamento, quebra de membros e morte"
+    }
+   ],
+   "visual": [
+    "GANHO desce (ele paga). RISCO: o martelo do tribunal."
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O chefe de setor",
+   "termo": "sintonia",
+   "falas": [
+    {
+     "fala": "Chegou a chefe de setor: muito dinheiro passa pela sua mão.",
+     "fonte": "Organograma da Polícia Civil (Dipol), fev/2026: setores como o do dinheiro"
+    },
+    {
+     "fala": "Isso dá inveja: um tesoureiro acusado de desviar cinco milhões foi fuzilado na porta de casa.",
+     "legenda": "Isso dá inveja: um tesoureiro acusado de desviar R$ 5 milhões foi fuzilado na porta de casa.",
+     "fonte": "Metrópoles, 15 e 16/03/2024: 'Luiz Conta Dinheiro', morto em Atibaia em 12/03/2024; a acusação de desvio de R$ 5 milhões é relatada pela reportagem"
+    }
+   ],
+   "visual": [
+    "GANHO alto. RISCO: a mira."
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "O topo",
+   "termo": "Sintonia Final",
+   "falas": [
+    {
+     "fala": "No topo, você divide com poucos oitenta por cento do dinheiro de cada ponto.",
+     "fonte": "Planilhas apreendidas (Folha via Jornal de Brasília, 12/11/2023): 80% vai para a cúpula nas biqueiras próprias"
+    },
+    {
+     "fala": "Mas até lá em cima tem traição: em 2024, chefes mandaram matar o próprio líder.",
+     "fonte": "CNN Brasil, 22/02/2024: Tiriça, Abel e Andinho decretaram a morte de Marcola, segundo o promotor Lincoln Gakiya"
+    }
+   ],
+   "visual": [
+    "GANHO no máximo; a balança começa a pesar do lado do RISCO."
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "E dos quinze chefes do topo, só um está solto.",
+     "fonte": "Dipol, fev/2026 (SBT News; Folhapress): 15 da Sintonia Final, 1 solto"
+    },
+    {
+     "fala": "Ainda quer subir?"
+    }
+   ],
+   "visual": [
+    "A balança tomba de vez para o RISCO."
+   ]
+  }
+ ]
+}

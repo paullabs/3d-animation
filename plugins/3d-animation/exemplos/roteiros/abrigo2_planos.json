@@ -1,0 +1,897 @@
+{
+ "ordem": [
+  "1A",
+  "1B",
+  "1C",
+  "1M",
+  "1D",
+  "1E",
+  "1F",
+  "1F2",
+  "1G",
+  "1H",
+  "2A",
+  "2B",
+  "2C",
+  "2D",
+  "2E",
+  "3A",
+  "3B",
+  "3C",
+  "3C2",
+  "3D",
+  "3E",
+  "3F",
+  "4A",
+  "4B",
+  "4C",
+  "4D",
+  "4E",
+  "4F",
+  "5A",
+  "5B",
+  "5C",
+  "5D",
+  "P1",
+  "6A",
+  "6B",
+  "6C",
+  "6D",
+  "6E",
+  "7A",
+  "7B",
+  "7C",
+  "7D",
+  "7E",
+  "7F",
+  "7G",
+  "7H",
+  "8A",
+  "8B",
+  "8C",
+  "8D",
+  "9A",
+  "9B",
+  "9C",
+  "9D",
+  "9E",
+  "10A",
+  "10B",
+  "10C",
+  "10D",
+  "10E",
+  "11A",
+  "11B",
+  "11C",
+  "11D",
+  "11E",
+  "12A",
+  "12B",
+  "12C",
+  "12D",
+  "12E",
+  "12F",
+  "13A",
+  "13B",
+  "13C",
+  "13D",
+  "13E",
+  "13F",
+  "14A",
+  "14B",
+  "14C",
+  "14D",
+  "14E",
+  "15A",
+  "15B",
+  "15B2",
+  "15B3",
+  "15C",
+  "15D",
+  "15E",
+  "15F",
+  "16A",
+  "16B",
+  "16C",
+  "16D",
+  "16E",
+  "16F",
+  "17A",
+  "17B",
+  "17C"
+ ],
+ "planos": {
+  "1A": {
+   "t0": 0.0,
+   "t1": 1.1,
+   "palavras": "A gente achava",
+   "lente": "24 mm, grua que desce devagar",
+   "vemos": "Grua descendo sobre a rua morta: os três pequenos no vão, a cidade cinza parada até o horizonte. Calmo, só vento.",
+   "som": "Vento baixo, a trilha quase parada"
+  },
+  "1B": {
+   "t0": 1.1,
+   "t1": 2.3,
+   "palavras": "que não tinha sobrado ninguém",
+   "lente": "50 mm, de frente, aproximação lenta (dolly-in)",
+   "vemos": "Os três de frente no vão, cansados, olhando a rua vazia. A Rita aperta o suéter. Quase nada se mexe.",
+   "som": "Respiração"
+  },
+  "1C": {
+   "t0": 2.3,
+   "t1": 2.9,
+   "palavras": "no mundo.",
+   "lente": "60 mm fixo, f/2",
+   "vemos": "Eles ouvem algo fora do quadro: os três viram a cabeça juntos para a direita da tela (rima com o 11D do ep. 1). Corte para o glitch.",
+   "som": "Um estalo digital"
+  },
+  "1M": {
+   "t0": 2.9,
+   "t1": 3.5,
+   "palavras": "(montagem)",
+   "lente": "vários (abaixo)",
+   "vemos": "A montagem de abertura, quadro a quadro na tabela abaixo.",
+   "som": "Gritos, \"tá, tá\", grave subindo, corte seco"
+  },
+  "1D": {
+   "t0": 3.5,
+   "t1": 4.4,
+   "palavras": "Até aquela coisa",
+   "lente": "18 mm rente ao chão, tilt para cima",
+   "vemos": "DETALHE antes do monstro: cinza escorrendo do entulho e uma mão preta, sem osso, tateando o concreto. Primeiro o som, depois a imagem.",
+   "som": "Silêncio total, depois o rosnado baixo"
+  },
+  "1E": {
+   "t0": 4.4,
+   "t1": 5.4,
+   "palavras": "sair do escuro.",
+   "lente": "24 mm, de baixo e de lado, tilt para cima",
+   "vemos": "Os três pequenos à esquerda; no entulho à direita, uma silhueta torta se levanta contra o céu branco sujo, dobrando no meio das costas.",
+   "som": "Estalo viscoso"
+  },
+  "1F": {
+   "t0": 5.4,
+   "t1": 6.1,
+   "palavras": "Tinha cara",
+   "lente": "50 mm, o foco corre (rack focus)",
+   "vemos": "Em primeiro plano, um vergalhão desfocado; o foco corre e ela entra em foco entre o entulho e os três, de frente, com o avental grudado.",
+   "som": "Rosnado"
+  },
+  "1G": {
+   "t0": 6.9,
+   "t1": 7.4,
+   "palavras": "mas não era",
+   "lente": "35 mm, por cima do ombro do Zé",
+   "vemos": "O Zé dá um passo à frente e para a direita, na frente dos outros dois; o Sem-Osso à frente, em foco.",
+   "som": "—"
+  },
+  "1H": {
+   "t0": 7.4,
+   "t1": 8.2,
+   "palavras": "gente.",
+   "lente": "18 mm rente ao chão, avança",
+   "vemos": "As botas do Zé e, mais longe, a base escorrida dela no chão; a câmera avança rente ao chão.",
+   "som": "Silêncio de 0,3 s"
+  },
+  "2A": {
+   "t0": 8.2,
+   "t1": 8.9,
+   "palavras": "Ela pulou",
+   "lente": "28 mm, de frente, plano aberto",
+   "vemos": "O salto inteiro à vista (início: agachada; fim: no ar sobre o Zé). Mostra a distância e a velocidade.",
+   "som": "Grito rouco"
+  },
+  "2B": {
+   "t0": 8.9,
+   "t1": 9.9,
+   "palavras": "em cima do Zé.",
+   "lente": "50 mm, o rosto do Zé",
+   "vemos": "O corpo escuro cobre a lente; o ataque fica fora do quadro.",
+   "som": "Baque abafado, o grito do Zé"
+  },
+  "2C": {
+   "t0": 9.9,
+   "t1": 10.6,
+   "palavras": "E aí a gente",
+   "lente": "POV 24 mm, mão vermelha",
+   "vemos": "A mão do narrador agarra a da Rita, que ainda olha para o Zé.",
+   "som": "—"
+  },
+  "2D": {
+   "t0": 10.6,
+   "t1": 11.2,
+   "palavras": "correu,",
+   "lente": "16 mm, câmera na mão, segue por trás",
+   "vemos": "De trás: eles descem a rua (para baixo na tela); a Rita tropeça na bicicleta e o sino toca. O eixo da fuga começa aqui.",
+   "som": "O sino, agora com eco"
+  },
+  "2E": {
+   "t0": 11.2,
+   "t1": 12.7,
+   "palavras": "sem olhar pra trás.",
+   "lente": "85 mm, de frente, recua com eles",
+   "vemos": "De frente, na mesma linha: vêm correndo para a câmera; atrás, o bunker pequeno e poeira; não se vê o Zé.",
+   "som": "Passos, respiração"
+  },
+  "3A": {
+   "t0": 12.7,
+   "t1": 13.8,
+   "palavras": "A rua já tava",
+   "lente": "24 mm, grua alta, sobe e abre",
+   "vemos": "Do alto: os dois descendo a rua entre os carros, o bunker lá atrás ficando pequeno; luz de fim de tarde.",
+   "som": "O eco do sino morrendo"
+  },
+  "3B": {
+   "t0": 13.8,
+   "t1": 14.7,
+   "palavras": "escurecendo,",
+   "lente": "50 mm fixo",
+   "vemos": "O sol baixo atrás da silhueta dos prédios quebrados; a luz esfria.",
+   "som": "—"
+  },
+  "3C": {
+   "t0": 14.7,
+   "t1": 15.3,
+   "palavras": "e dos prédios",
+   "lente": "28 mm, de frente, aproxima (dolly-in)",
+   "vemos": "A fachada da padaria (a da padeira) no fim da tarde: letreiro PADARIA, toldo listrado, vitrine rachada e uma luz de emergência âmbar lá no fundo. O lugar é lido antes do perigo.",
+   "som": ""
+  },
+  "3D": {
+   "t0": 16.0,
+   "t1": 16.7,
+   "palavras": "foram saindo",
+   "lente": "28 mm, de lado",
+   "vemos": "Do toldo rasgado a gosma escorre e sobe em corpo; boné grudado.",
+   "som": "Gotejar grosso"
+  },
+  "3E": {
+   "t0": 16.7,
+   "t1": 17.5,
+   "palavras": "outras iguais",
+   "lente": "50 mm, de frente, câmera na mão, recua",
+   "vemos": "Eles correm para a câmera; atrás, quatro ou cinco saindo de lugares diferentes, do mais perto ao mais longe.",
+   "som": "Rosnados em camadas"
+  },
+  "3F": {
+   "t0": 17.5,
+   "t1": 18.2,
+   "palavras": "a ela.",
+   "lente": "POV 20 mm, olhando para a frente da fuga",
+   "vemos": "À frente, no cruzamento, outra Sem-Osso fecha a rua; eu puxo a Rita para o beco à esquerda.",
+   "som": "—"
+  },
+  "4A": {
+   "t0": 18.2,
+   "t1": 19.5,
+   "palavras": "Eu ouvi o Zé gritar",
+   "lente": "50 mm f/2, 3/4, dolly-in lento",
+   "vemos": "O rosto do narrador no beco, suado, olhando para trás; ao fundo desfocadas, as lâmpadas de festa e as janelas acesas viram bolas de luz âmbar.",
+   "som": "O Zé, longe, gritando um nome que não se entende"
+  },
+  "4B": {
+   "t0": 19.5,
+   "t1": 20.3,
+   "palavras": "o meu nome.",
+   "lente": "28 mm, rente ao chão, avança",
+   "vemos": "Do chão do beco: a poça reflete o contraluz da rua e o reflexo escuro de uma Sem-Osso chega antes dela; a silhueta cruza a boca do beco e a sombra cresce na parede.",
+   "som": "O eco some"
+  },
+  "4C": {
+   "t0": 20.3,
+   "t1": 21.1,
+   "palavras": "A mão da Rita",
+   "lente": "85 mm macro",
+   "vemos": "MACRO: as duas mãos (manga vermelha e manga rosada) se agarram e os dedos escorregam. Fundo: bolas de luz âmbar do beco.",
+   "som": "—"
+  },
+  "4D": {
+   "t0": 21.1,
+   "t1": 22.0,
+   "palavras": "soltou da minha.",
+   "lente": "50 mm rente ao chão, câmera lenta",
+   "vemos": "MACRO: o suéter vermelho cai na poça, e as ondas abrem em anéis refletindo a janela âmbar.",
+   "som": "Pano caindo, abafado"
+  },
+  "4E": {
+   "t0": 22.0,
+   "t1": 23.0,
+   "palavras": "E eu não vi",
+   "lente": "24 mm POV, gira (câmera torta, whip pan)",
+   "vemos": "O POV gira do fundo do beco (as silhuetas entrando contra a luz) para a parede, com a câmera inclinando.",
+   "som": "Respiração rápida"
+  },
+  "4F": {
+   "t0": 23.0,
+   "t1": 24.0,
+   "palavras": "mais ninguém.",
+   "lente": "24 mm de cima, grua sobe",
+   "vemos": "Eu sozinho no fim do beco, na outra rua, com os Sem-Osso vindo dos quatro lados.",
+   "som": "Rosnados chegando"
+  },
+  "5A": {
+   "t0": 24.0,
+   "t1": 24.6,
+   "palavras": "Aí veio",
+   "lente": "50 mm, perfil, MACRO na mão",
+   "vemos": "MACRO: a mão de pano verde acende a lanterna (anéis, faixa amarela, botão vermelho): o facho varre a poça e o chão molhado.",
+   "som": "Clique da lanterna"
+  },
+  "5B": {
+   "t0": 24.6,
+   "t1": 25.3,
+   "palavras": "uma pancada",
+   "lente": "POV 24 mm",
+   "vemos": "Um vulto de pano no rosto gira o taco. O quadro dá um tranco.",
+   "som": "Pancada seca"
+  },
+  "5C": {
+   "t0": 25.3,
+   "t1": 26.0,
+   "palavras": "na cabeça,",
+   "lente": "18 mm rente ao chão",
+   "vemos": "Meu rosto na cinza; botas e o facho da lanterna chegando.",
+   "som": "Zumbido"
+  },
+  "5D": {
+   "t0": 26.0,
+   "t1": 27.0,
+   "palavras": "e tudo apagou.",
+   "lente": "POV, a imagem fecha",
+   "vemos": "A imagem fecha pelas bordas, pisca e fica preta.",
+   "som": "—"
+  },
+  "P1": {
+   "t0": 27.0,
+   "t1": 28.5,
+   "palavras": "(pausa)",
+   "lente": "tela preta",
+   "vemos": "O desmaio.",
+   "som": "Coração lento, vozes abafadas"
+  },
+  "6A": {
+   "t0": 28.5,
+   "t1": 29.4,
+   "palavras": "Quando eu acordei,",
+   "lente": "24 mm, POV do chão, foco puxa do borrão ao nítido (abre a pálpebra)",
+   "vemos": "Acordo no chão: o teto, as bolas de luz do varal em borrão, rostos entrando pelas bordas do quadro.",
+   "som": "Vozes ficando nítidas"
+  },
+  "6B": {
+   "t0": 29.4,
+   "t1": 30.4,
+   "palavras": "tinha um monte de gente",
+   "lente": "14 mm, de baixo, câmera que gira (roll 5° a -4°)",
+   "vemos": "A roda de nove rostos de pano olhando para baixo, o fio de lâmpadas cruzando o teto.",
+   "som": "Murmúrio"
+  },
+  "6C": {
+   "t0": 30.4,
+   "t1": 31.5,
+   "palavras": "em volta de mim,",
+   "lente": "24 mm, grua descendo do teto",
+   "vemos": "Geral do galpão de cima: eu deitado no centro, o círculo, a fogueira, colchões, varal, estante.",
+   "som": "—"
+  },
+  "6D": {
+   "t0": 31.5,
+   "t1": 32.1,
+   "palavras": "com lanterna",
+   "lente": "35 mm, POV, objeto vindo à lente",
+   "vemos": "A mulher do rádio, de baixo, as duas mãos segurando a lanterna que gira para a minha cara.",
+   "som": "—"
+  },
+  "6E": {
+   "t0": 32.1,
+   "t1": 33.1,
+   "palavras": "na minha cara.",
+   "lente": "85 mm, rack focus (da lanterna ao olho)",
+   "vemos": "Meu rosto com o galo na testa, olhos apertados; a lanterna e o clarão em primeiro plano borrados.",
+   "som": "—"
+  },
+  "7A": {
+   "t0": 33.1,
+   "t1": 34.3,
+   "palavras": "Eles tavam esperando",
+   "lente": "22 mm, por cima do ombro, baixo",
+   "vemos": "Eu sentado, de costas; nove em arco atrás da fogueira, canos e tacos nas mãos.",
+   "som": "—"
+  },
+  "7B": {
+   "t0": 34.3,
+   "t1": 34.8,
+   "palavras": "eu virar",
+   "lente": "50 mm, macro, câmera lenta",
+   "vemos": "Duas mãos apertando um cano; uma corda caída. O grupo desfocado ao fundo.",
+   "som": "—"
+  },
+  "7C": {
+   "t0": 34.8,
+   "t1": 36.0,
+   "palavras": "uma daquelas coisas.",
+   "lente": "50 mm, 3/4, lateral",
+   "vemos": "A mulher abre meu olho com o polegar; a lanterna acima, o galo visível.",
+   "som": "—"
+  },
+  "7D": {
+   "t0": 36.0,
+   "t1": 37.2,
+   "palavras": "Mas eu não virei.",
+   "lente": "85 mm, extremo close",
+   "vemos": "O meu olho branco aceso, inteiro, com a borda de luz (rima com o olho apagado do 1F).",
+   "som": "Suspiro do grupo"
+  },
+  "7E": {
+   "t0": 37.2,
+   "t1": 37.9,
+   "palavras": "(pausa)",
+   "lente": "35 mm, através do fogo",
+   "vemos": "Cinco do grupo atrás das chamas, se olhando.",
+   "som": "Só a fogueira"
+  },
+  "7F": {
+   "t0": 37.9,
+   "t1": 39.3,
+   "palavras": "E alguém falou baixinho:",
+   "lente": "50 mm, perfil duplo",
+   "vemos": "O velho com a mão no ouvido do homem do taco: o cochicho.",
+   "som": "Cochicho"
+  },
+  "7G": {
+   "t0": 39.3,
+   "t1": 39.9,
+   "palavras": "ele veio",
+   "lente": "28 mm, pan por uma fila de rostos",
+   "vemos": "Sete rostos virando para a câmera, todos de uma vez.",
+   "som": "—"
+  },
+  "7H": {
+   "t0": 39.9,
+   "t1": 40.9,
+   "palavras": "de um abrigo.",
+   "lente": "35 mm, macro 3/4 das mãos",
+   "vemos": "A mão da mulher entrega o pano; a minha mão de manga vermelha recebe.",
+   "som": "—"
+  },
+  "8A": {
+   "t0": 40.9,
+   "t1": 42.0,
+   "palavras": "Cadê a Rita?",
+   "lente": "28 mm, POV levantando (tilt)",
+   "vemos": "Sento de um pulo: as mãos no chão, o olhar varrendo o círculo; ninguém de vermelho.",
+   "som": "—"
+  },
+  "8B": {
+   "t0": 42.0,
+   "t1": 43.0,
+   "palavras": "Cadê o Zé?",
+   "lente": "35 mm, câmera baixa",
+   "vemos": "Um casaco verde de costas; ele vira e não é o Zé.",
+   "som": "—"
+  },
+  "8C": {
+   "t0": 43.0,
+   "t1": 43.4,
+   "palavras": "Ninguém",
+   "lente": "85 mm, close duplo",
+   "vemos": "Duas cabeças de pano balançando que não, o mapa borrado atrás.",
+   "som": "—"
+  },
+  "8D": {
+   "t0": 43.4,
+   "t1": 44.7,
+   "palavras": "ali sabia.",
+   "lente": "35 mm, dolly-in atrás de mim",
+   "vemos": "Eu sentado, de costas; o líder sai do fundo, atravessa o corredor de gente e vem.",
+   "som": "Passos"
+  },
+  "9A": {
+   "t0": 44.7,
+   "t1": 46.1,
+   "palavras": "O líder me contou:",
+   "lente": "85 mm, por cima do ombro, através da fogueira",
+   "vemos": "O líder do outro lado do fogo, caneca nas mãos, o fogo tremendo no rosto.",
+   "som": "Fogo"
+  },
+  "9B": {
+   "t0": 46.1,
+   "t1": 47.5,
+   "palavras": "quem respirou o ar lá fora",
+   "lente": "24 mm, de baixo, dolly para a frente",
+   "vemos": "O céu branco, a poeira, os vizinhos de olho no alto e a mão na boca; o cogumelo ao longe.",
+   "som": "A explosão, longe"
+  },
+  "9C": {
+   "t0": 47.5,
+   "t1": 48.4,
+   "palavras": "derreteu por dentro",
+   "lente": "85 mm, aproximação lenta",
+   "vemos": "A padeira contra a porta do abrigo, a pele ganhando brilho de óleo.",
+   "som": "Silêncio grave"
+  },
+  "9D": {
+   "t0": 48.4,
+   "t1": 49.0,
+   "palavras": "e virou uma",
+   "lente": "85 mm, macro",
+   "vemos": "Uma mão aberta: as pontas dos dedos viram gosma e pingam.",
+   "som": "Som molhado"
+  },
+  "9E": {
+   "t0": 49.0,
+   "t1": 49.7,
+   "palavras": "gosma.",
+   "lente": "18 mm, rente à soleira, travelling",
+   "vemos": "O avental no chão e a poça preta crescendo debaixo dele.",
+   "som": "—"
+  },
+  "10A": {
+   "t0": 49.7,
+   "t1": 51.1,
+   "palavras": "A gosma sai do corpo",
+   "lente": "35 mm, câmera que segue a gosma",
+   "vemos": "A gosma sai do avental e escorre para longe pelo chão.",
+   "som": "Arrasto molhado"
+  },
+  "10B": {
+   "t0": 51.1,
+   "t1": 52.5,
+   "palavras": "e deixa só o esqueleto.",
+   "lente": "50 mm, dolly-in",
+   "vemos": "No lugar dela, o esqueleto sentado contra o pilar, o avental caído.",
+   "som": "—"
+  },
+  "10C": {
+   "t0": 52.5,
+   "t1": 53.3,
+   "palavras": "Por isso a rua",
+   "lente": "20 mm, grua descendo",
+   "vemos": "A rua do alto, cheia de ossos de um lado a outro.",
+   "som": "Vento"
+  },
+  "10D": {
+   "t0": 53.3,
+   "t1": 53.9,
+   "palavras": "tá cheia",
+   "lente": "35 mm, travelling lateral baixo",
+   "vemos": "Esqueletos sentados nos degraus e deitados na calçada passando em frente à lente.",
+   "som": "—"
+  },
+  "10E": {
+   "t0": 53.9,
+   "t1": 54.8,
+   "palavras": "de ossos.",
+   "lente": "85 mm, macro com o facho da lanterna varrendo",
+   "vemos": "Um crânio na cinza, a luz passando sobre ele.",
+   "som": "—"
+  },
+  "11A": {
+   "t0": 54.8,
+   "t1": 55.9,
+   "palavras": "Só que ninguém morreu",
+   "lente": "85 mm, 3/4",
+   "vemos": "O líder, o fogo tremendo no rosto: ninguém morreu de verdade.",
+   "som": "—"
+  },
+  "11B": {
+   "t0": 55.9,
+   "t1": 56.8,
+   "palavras": "de verdade.",
+   "lente": "85 mm, holandês (roll -6°)",
+   "vemos": "Os meus olhos arregalados.",
+   "som": "—"
+  },
+  "11C": {
+   "t0": 56.8,
+   "t1": 58.3,
+   "palavras": "A gosma se junta de novo",
+   "lente": "28 mm, baixo, dolly",
+   "vemos": "Três poças escorrem uma para a outra e se juntam sob um poste.",
+   "som": "Gotejar puxado"
+  },
+  "11D": {
+   "t0": 58.3,
+   "t1": 59.4,
+   "palavras": "e vira outra coisa:",
+   "lente": "35 mm, contra-plongée",
+   "vemos": "A gosma sobe numa coluna e vira um corpo curvado que se ergue.",
+   "som": "Estalo viscoso"
+  },
+  "11E": {
+   "t0": 59.4,
+   "t1": 60.9,
+   "palavras": "os Sem-Osso.",
+   "lente": "35 mm, dolly-in",
+   "vemos": "Três Sem-Osso na rua, o poste ao fundo; o da frente, de avental, vem até a lente.",
+   "som": "Rosnado"
+  },
+  "12A": {
+   "t0": 60.9,
+   "t1": 61.5,
+   "palavras": "Os ossos",
+   "lente": "85 mm, aproximação",
+   "vemos": "O crânio do esqueleto no pilar, de perto.",
+   "som": "—"
+  },
+  "12B": {
+   "t0": 61.5,
+   "t1": 62.7,
+   "palavras": "na frente da nossa porta",
+   "lente": "24 mm, travelling baixo",
+   "vemos": "A porta do abrigo de fora, os esqueletos na frente.",
+   "som": "—"
+  },
+  "12C": {
+   "t0": 62.7,
+   "t1": 64.2,
+   "palavras": "eram do povo que batia,",
+   "lente": "24 mm, mão levemente inclinada",
+   "vemos": "A padeira e o rapaz do mercado batendo no aço (o mesmo plano do ep. 1).",
+   "som": "As batidas do ep. 1, abafadas"
+  },
+  "12D": {
+   "t0": 64.2,
+   "t1": 64.8,
+   "palavras": "pedindo pra",
+   "lente": "50 mm, aproximação",
+   "vemos": "Os rostos na janelinha redonda da porta.",
+   "som": "—"
+  },
+  "12E": {
+   "t0": 64.8,
+   "t1": 65.3,
+   "palavras": "entrar.",
+   "lente": "35 mm, 3/4",
+   "vemos": "Um Sem-Osso de avental com as mãos escorrendo na porta.",
+   "som": "—"
+  },
+  "12F": {
+   "t0": 65.3,
+   "t1": 66.2,
+   "palavras": "(pausa)",
+   "lente": "50 mm, dolly-in",
+   "vemos": "Eu, de frente, a ficha caindo: eu estava do lado de dentro.",
+   "som": "A música some"
+  },
+  "13A": {
+   "t0": 66.2,
+   "t1": 67.0,
+   "palavras": "Pelo rádio,",
+   "lente": "50 mm, macro",
+   "vemos": "A mão do líder gira o botão; o mostrador âmbar acende.",
+   "som": "Chiado"
+  },
+  "13B": {
+   "t0": 67.0,
+   "t1": 67.7,
+   "palavras": "eles contavam",
+   "lente": "28 mm, de frente",
+   "vemos": "A mulher de fone gira a sintonia, o rádio, a vela e o telefone na mesa.",
+   "som": "Bipes de rádio"
+  },
+  "13C": {
+   "t0": 67.7,
+   "t1": 68.8,
+   "palavras": "quem ainda respondia",
+   "lente": "50 mm, macro",
+   "vemos": "A mão riscando o quadro de giz.",
+   "som": "Giz"
+  },
+  "13D": {
+   "t0": 68.8,
+   "t1": 69.8,
+   "palavras": "no mundo inteiro:",
+   "lente": "28 mm, travelling lateral (rack focus)",
+   "vemos": "Do quadro de riscos ao mapa do mundo com poucos alfinetes.",
+   "som": "—"
+  },
+  "13E": {
+   "t0": 69.8,
+   "t1": 71.1,
+   "palavras": "catorze pessoas.",
+   "lente": "35 mm, dolly-in",
+   "vemos": "Os 14 riscos, o último acabando de ser feito.",
+   "som": "Giz, seco"
+  },
+  "13F": {
+   "t0": 71.1,
+   "t1": 72.0,
+   "palavras": "(pausa)",
+   "lente": "28 mm, simétrico, frontal",
+   "vemos": "Os nove em fila, de pano no rosto, atrás da fogueira: o público faz a conta.",
+   "som": "Chiado"
+  },
+  "14A": {
+   "t0": 72.0,
+   "t1": 72.8,
+   "palavras": "E toda noite,",
+   "lente": "35 mm, macro",
+   "vemos": "A tela de pano do alto-falante vibrando, poeira acesa no ar.",
+   "som": "Chiado"
+  },
+  "14B": {
+   "t0": 72.8,
+   "t1": 74.2,
+   "palavras": "uma voz chamava:",
+   "lente": "35 mm, câmera atrás do rádio",
+   "vemos": "Todos inclinados para o rádio, as caras acesas de âmbar.",
+   "som": "A partir daqui, a voz sai como rádio (EQ de rádio, sem mexer no tom)"
+  },
+  "14C": {
+   "t0": 74.2,
+   "t1": 75.1,
+   "palavras": "quem nunca respirou",
+   "lente": "28 mm, perfil, sobe a escada",
+   "vemos": "O líder e eu subindo a escada para o telhado, a luz azul da noite lá em cima.",
+   "som": "Vento"
+  },
+  "14D": {
+   "t0": 75.1,
+   "t1": 76.0,
+   "palavras": "o ar de fora,",
+   "lente": "35 mm, de frente",
+   "vemos": "No telhado, o vento levanta a cinza no facho da lanterna; ele de pano, eu sem.",
+   "som": "Vento"
+  },
+  "14E": {
+   "t0": 76.0,
+   "t1": 77.2,
+   "palavras": "venha pra torre.",
+   "lente": "50 mm a 85 mm, tilt",
+   "vemos": "Minha nuca em primeiro plano; a câmera sobe até a torre com a luz vermelha.",
+   "som": "Um zumbido elétrico baixo a cada piscada"
+  },
+  "15A": {
+   "t0": 77.2,
+   "t1": 77.9,
+   "palavras": "Ninguém ali",
+   "lente": "50 mm, travelling lateral rápido",
+   "vemos": "Os panos no rosto de cada um: todos respiraram o ar.",
+   "som": "—"
+  },
+  "15B": {
+   "t0": 77.9,
+   "t1": 78.9,
+   "palavras": "podia entrar.",
+   "lente": "85 mm, 3/4, dolly-in",
+   "vemos": "O líder baixa os olhos para o fogo.",
+   "som": "—"
+  },
+  "15C": {
+   "t0": 80.9,
+   "t1": 81.7,
+   "palavras": "Só eu.",
+   "lente": "24 mm, pan subjetivo",
+   "vemos": "Todos os olhos em mim, de pano no rosto, o galpão em volta.",
+   "som": "—"
+  },
+  "15D": {
+   "t0": 81.7,
+   "t1": 82.4,
+   "palavras": "E a Rita,",
+   "lente": "35 mm, inclinado, de cima",
+   "vemos": "O suéter vermelho na cinza, sozinho, de noite.",
+   "som": "—"
+  },
+  "15E": {
+   "t0": 82.4,
+   "t1": 83.9,
+   "palavras": "se ela ainda tiver viva.",
+   "lente": "50 mm, tilt da mão ao rosto",
+   "vemos": "A mão apertando o pano; a câmera sobe e o meu rosto decide.",
+   "som": "—"
+  },
+  "15F": {
+   "t0": 83.9,
+   "t1": 85.3,
+   "palavras": "(pausa)",
+   "lente": "28 mm, do portão para dentro",
+   "vemos": "Três batidas: o grupo vira a cabeça ao mesmo tempo para a câmera (o portão).",
+   "som": "BUM, BUM, BUM"
+  },
+  "16A": {
+   "t0": 85.3,
+   "t1": 86.1,
+   "palavras": "Foi aí que alguém",
+   "lente": "24 mm, dolly-in, o galpão inteiro",
+   "vemos": "O portão de aço no fundo, o fogo no meio, o varal e as luzes em primeiro plano.",
+   "som": "Batidas"
+  },
+  "16B": {
+   "t0": 86.1,
+   "t1": 87.0,
+   "palavras": "começou a bater",
+   "lente": "24 mm, rente ao chão",
+   "vemos": "A fresta de luz azul no pé do portão: uma sombra se mexe do outro lado.",
+   "som": "Batidas, arranhão"
+  },
+  "16C": {
+   "t0": 87.0,
+   "t1": 87.8,
+   "palavras": "no portão.",
+   "lente": "50 mm, macro",
+   "vemos": "O ferrolho pulando no trilho, a poeira caindo.",
+   "som": "Batida"
+  },
+  "16D": {
+   "t0": 87.8,
+   "t1": 88.4,
+   "palavras": "E chamava",
+   "lente": "50 mm, de frente",
+   "vemos": "Eu vou para o portão; o líder me segura (ele de costas, desfocado).",
+   "som": "—"
+  },
+  "16E": {
+   "t0": 88.4,
+   "t1": 89.1,
+   "palavras": "o meu nome.",
+   "lente": "85 mm, close",
+   "vemos": "O meu rosto ouvindo o próprio nome, a luz do fogo atrás.",
+   "som": "—"
+  },
+  "16F": {
+   "t0": 89.1,
+   "t1": 90.4,
+   "palavras": "(pausa)",
+   "lente": "50 mm, dolly-in",
+   "vemos": "A minha nuca a um palmo do portão: o lugar do Zé.",
+   "som": "A voz abafada chama um nome que não se entende"
+  },
+  "17A": {
+   "t0": 90.4,
+   "t1": 90.8,
+   "palavras": "Quer saber",
+   "lente": "35 mm, macro 3/4",
+   "vemos": "A minha mão de manga vermelha no ferrolho.",
+   "som": "—"
+  },
+  "17B": {
+   "t0": 90.8,
+   "t1": 92.1,
+   "palavras": "quem tava lá fora?",
+   "lente": "85 mm, perfil",
+   "vemos": "O meu rosto encostado no aço, os olhos fechados, respirando.",
+   "som": "Uma batida"
+  },
+  "17C": {
+   "t0": 92.1,
+   "t1": 95.0,
+   "palavras": "Segue pra parte três.",
+   "lente": "85 mm, macro",
+   "vemos": "O ferrolho começa a correr com a minha mão, e corta para preto.",
+   "som": "Uma batida no escuro"
+  },
+  "1F2": {
+   "t0": 6.1,
+   "t1": 6.9,
+   "palavras": "de gente,",
+   "lente": "85 mm f/1,8, dolly-in lento",
+   "vemos": "O rosto: cabeça preta de óleo, coque grudado, o olho cinza apagado, a mandíbula pendurada. A câmera se aproxima devagar.",
+   "som": ""
+  },
+  "3C2": {
+   "t0": 15.3,
+   "t1": 16.0,
+   "palavras": "quebrados",
+   "lente": "85 mm f/2, o foco nos olhos, aproxima",
+   "vemos": "Por trás do vidro rachado, no escuro atrás do balcão, dois olhos cinza se acendem; a luz âmbar da emergência recorta o balcão.",
+   "som": ""
+  },
+  "15B2": {
+   "t0": 78.9,
+   "t1": 79.5,
+   "palavras": "porque todos",
+   "lente": "85 mm, macro",
+   "vemos": "A mão do líder: as pontas dos dedos pretas, pingando.",
+   "som": "silêncio, um pingo"
+  },
+  "15B3": {
+   "t0": 79.5,
+   "t1": 80.9,
+   "palavras": "já tinham respirado.",
+   "lente": "85 mm, rack focus",
+   "vemos": "A minha mão limpa na frente, a dele suja ao fundo; o foco passa de uma à outra.",
+   "som": "—"
+  }
+ }
+}

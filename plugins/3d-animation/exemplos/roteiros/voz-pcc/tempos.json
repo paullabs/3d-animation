@@ -1,0 +1,148 @@
+{
+ "titulo": "Os 5 níveis até o topo do PCC",
+ "voz": "Luciana",
+ "taxa": 200,
+ "total": 63.55,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Imagina comandar quarenta mil pessoas de dentro de uma cela.",
+   "legenda": "Imagina comandar quarenta mil pessoas de dentro de uma cela.",
+   "inicio": 0.35,
+   "duracao": 3.703,
+   "arquivo": "../roteiros/voz-pcc/frases/f01.aiff"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "A polícia diz que o chefe do PCC faz isso.",
+   "legenda": "A polícia diz que o chefe do PCC faz isso.",
+   "inicio": 4.193,
+   "duracao": 3.009,
+   "arquivo": "../roteiros/voz-pcc/frases/f02.aiff"
+  },
+  {
+   "n": 3,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "No último dos cinco níveis, tem um número que parece mentira.",
+   "legenda": "No último dos cinco níveis, tem um número que parece mentira.",
+   "inicio": 7.343,
+   "duracao": 3.517,
+   "arquivo": "../roteiros/voz-pcc/frases/f03.aiff"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No nível um, você é ajudante: faz serviço pra facção, mas não é um deles.",
+   "legenda": "No nível um, você é ajudante: faz serviço pra facção, mas não é um deles.",
+   "inicio": 11.18,
+   "duracao": 5.108,
+   "arquivo": "../roteiros/voz-pcc/frases/f04.aiff"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "No nível dois, você vira membro: um padrinho te indica e responde pelos seus erros.",
+   "legenda": "No nível dois, você vira membro: um padrinho te indica e responde pelos seus erros.",
+   "inicio": 16.608,
+   "duracao": 5.212,
+   "arquivo": "../roteiros/voz-pcc/frases/f05.aiff"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "E você paga mensalidade.",
+   "legenda": "E você paga mensalidade.",
+   "inicio": 21.96,
+   "duracao": 1.637,
+   "arquivo": "../roteiros/voz-pcc/frases/f06.aiff"
+  },
+  {
+   "n": 7,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "No nível três, você vira fiscal de uma área. Quem quebra as regras vai pro tribunal do crime, e a pena pode ser a morte.",
+   "legenda": "No nível três, você vira fiscal de uma área. Quem quebra as regras vai pro tribunal do crime, e a pena pode ser a morte.",
+   "inicio": 23.917,
+   "duracao": 7.546,
+   "arquivo": "../roteiros/voz-pcc/frases/f07.aiff"
+  },
+  {
+   "n": 8,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "No nível quatro, você chefia um setor, como numa empresa.",
+   "legenda": "No nível quatro, você chefia um setor, como numa empresa.",
+   "inicio": 31.783,
+   "duracao": 3.738,
+   "arquivo": "../roteiros/voz-pcc/frases/f08.aiff"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Tem setor da droga, do dinheiro, dos advogados... e até das redes sociais.",
+   "legenda": "Tem setor da droga, do dinheiro, dos advogados... e até das redes sociais.",
+   "inicio": 35.661,
+   "duracao": 5.044,
+   "arquivo": "../roteiros/voz-pcc/frases/f09.aiff"
+  },
+  {
+   "n": 10,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "No nível cinco, você está no topo.",
+   "legenda": "No nível cinco, você está no topo.",
+   "inicio": 41.025,
+   "duracao": 2.391,
+   "arquivo": "../roteiros/voz-pcc/frases/f10.aiff"
+  },
+  {
+   "n": 11,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Uma investigação apontou que postos de gasolina ligados à facção movimentaram cinquenta e dois bilhões de reais em cinco anos.",
+   "legenda": "Uma investigação apontou que postos de gasolina ligados à facção movimentaram cinquenta e dois bilhões de reais em cinco anos.",
+   "inicio": 43.556,
+   "duracao": 7.804,
+   "arquivo": "../roteiros/voz-pcc/frases/f11.aiff"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Em notas de cem, seria uma pilha de mais de cinco Everests.",
+   "legenda": "Em notas de cem, seria uma pilha de mais de cinco Everests.",
+   "inicio": 51.5,
+   "duracao": 4.098,
+   "arquivo": "../roteiros/voz-pcc/frases/f12.aiff"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Mas o topo tem um preço: dos chefes de lá, só um está solto, segundo a polícia.",
+   "legenda": "Mas o topo tem um preço: dos chefes de lá, só um está solto, segundo a polícia.",
+   "inicio": 55.918,
+   "duracao": 5.549,
+   "arquivo": "../roteiros/voz-pcc/frases/f13.aiff"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer subir?",
+   "legenda": "Ainda quer subir?",
+   "inicio": 61.607,
+   "duracao": 1.024,
+   "arquivo": "../roteiros/voz-pcc/frases/f14.aiff"
+  }
+ ]
+}

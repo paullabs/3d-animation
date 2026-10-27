@@ -1,0 +1,147 @@
+{
+ "titulo": "Você acabou de virar um presidente corrupto do Brasil",
+ "voz": "ElevenLabs lucas115.mp3",
+ "total": 84.33,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Você acabou de virar um presidente corrupto do Brasil. Mas o seu salário é o que menos importa: o dinheiro de verdade vem dos esquemas por fora.",
+   "legenda": "Você acabou de virar um presidente corrupto do Brasil. Mas o seu salário é o que menos importa: o dinheiro de verdade vem dos esquemas por fora.",
+   "inicio": 0.386,
+   "duracao": 6.494,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "E quanto mais dinheiro você tenta ganhar... maior é o risco de ser pego.",
+   "legenda": "E quanto mais dinheiro você tenta ganhar... maior é o risco de ser pego.",
+   "inicio": 7.08,
+   "duracao": 3.62,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "Primeiro, você precisa de votos no Congresso, e começa a pagar deputados por fora. No Mensalão, foram denunciadas mesadas de trinta mil reais: cem salários mínimos da época, todo mês.",
+   "legenda": "Primeiro, você precisa de votos no Congresso, e começa a pagar deputados por fora. No Mensalão, foram denunciadas mesadas de 30 mil reais: 100 salários mínimos da época, todo mês.",
+   "inicio": 10.9,
+   "duracao": 9.04,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "Só que o esquema foi descoberto, chegou ao Supremo e terminou com vinte e cinco condenados.",
+   "legenda": "Só que o esquema foi descoberto, chegou ao Supremo e terminou com 25 condenados.",
+   "inicio": 20.22,
+   "duracao": 3.76,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Agora você põe aliados nas estatais. Em cada contrato, de um a três por cento vai por fora. Parece pouco? Num contrato de um bilhão, são trinta milhões.",
+   "legenda": "Agora você põe aliados nas estatais. Em cada contrato, de 1% a 3% vai por fora. Parece pouco? Num contrato de 1 bilhão, são 30 milhões.",
+   "inicio": 24.22,
+   "duracao": 7.58,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Até vir à tona: a Petrobras reconheceu seis bilhões em perdas com corrupção. É um milhão por dia, durante dezessete anos.",
+   "legenda": "Até vir à tona: a Petrobras reconheceu 6 bilhões em perdas com corrupção. É 1 milhão por dia, durante 17 anos.",
+   "inicio": 32.1,
+   "duracao": 6.88,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Depois vêm as empreiteiras. A Odebrecht tinha até um departamento só pra pagar propina: quase quatro bilhões de reais, em doze países.",
+   "legenda": "Depois vêm as empreiteiras. A Odebrecht tinha até um departamento só pra pagar propina: quase 4 bilhões de reais, em 12 países.",
+   "inicio": 39.22,
+   "duracao": 6.68,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Até que foi descoberta, e a conta voltou: mais de dezessete bilhões em multas.",
+   "legenda": "Até que foi descoberta, e a conta voltou: mais de 17 bilhões em multas.",
+   "inicio": 46.14,
+   "duracao": 4.14,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Agora você mexe no orçamento do país: quarenta e cinco bilhões em emendas, em três anos, sem dizer quem indicava. Uns quarenta milhões por dia.",
+   "legenda": "Agora você mexe no orçamento do país: 45 bilhões em emendas, em três anos, sem dizer quem indicava. Uns 40 milhões por dia.",
+   "inicio": 50.44,
+   "duracao": 7.38,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 10,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "Até o Supremo declarar o esquema inconstitucional e mandar revelar os nomes.",
+   "legenda": "Até o Supremo declarar o esquema inconstitucional e mandar revelar os nomes.",
+   "inicio": 57.82,
+   "duracao": 3.72,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 11,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Lá no topo, até presente vira problema: joias de dezesseis milhões barradas na mochila de um assessor. Mais de oitocentos anos de salário mínimo.",
+   "legenda": "Lá no topo, até presente vira problema: joias de 16 milhões barradas na mochila de um assessor. Mais de 800 anos de salário mínimo.",
+   "inicio": 61.7,
+   "duracao": 7.38,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "E a investigação da polícia chegou até o presidente da época.",
+   "legenda": "E a investigação da polícia chegou até o presidente da época.",
+   "inicio": 69.26,
+   "duracao": 2.72,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "No fim, das sete pessoas que foram presidente desde mil novecentos e noventa, quatro já foram presas. Uma por corrupção, uma por golpe... e duas acabaram absolvidas ou com o processo anulado.",
+   "legenda": "No fim, das 7 pessoas que foram presidente desde 1990, 4 já foram presas. Uma por corrupção, uma por golpe... e duas acabaram absolvidas ou com o processo anulado.",
+   "inicio": 71.98,
+   "duracao": 9.76,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer a faixa?",
+   "legenda": "Ainda quer a faixa?",
+   "inicio": 81.9,
+   "duracao": 0.84,
+   "arquivo": "../roteiros/voz-presidente/narracao.wav"
+  }
+ ]
+}

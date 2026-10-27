@@ -1,0 +1,98 @@
+{
+ "titulo": "E se o seu cérebro fosse 10 vezes mais rápido?",
+ "voz": "ElevenLabs lucas_120.mp3",
+ "total": 49.71,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "[intense] Você acabou de ganhar um cérebro dez vezes mais rápido. Um copo cai da mesa... e sua mão já está embaixo.",
+   "legenda": "Você acabou de ganhar um cérebro 10 vezes mais rápido. Um copo cai da mesa... e sua mão já está embaixo.",
+   "inicio": 0.329,
+   "duracao": 5.391,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "[matter-of-fact] Uma pessoa normal reage em um quarto de segundo. Você, em vinte e cinco milésimos.",
+   "legenda": "Uma pessoa normal reage em 1/4 de segundo. Você, em 25 milésimos.",
+   "inicio": 6.0,
+   "duracao": 4.24,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "[amazed] Teste da régua: uma pessoa deixa cair trinta centímetros. Você, três milímetros. O mundo inteiro anda em câmera lenta.",
+   "legenda": "Teste da régua: uma pessoa deixa cair 30 centímetros. Você, 3 milímetros. O mundo inteiro anda em câmera lenta.",
+   "inicio": 10.69,
+   "duracao": 6.62,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "[excited] No futebol, um pênalti chega em menos de meio segundo. O goleiro comum aposta num lado. Você espera a bola sair... e defende.",
+   "legenda": "No futebol, um pênalti chega em menos de meio segundo. O goleiro comum aposta num lado. Você espera a bola sair... e defende.",
+   "inicio": 17.57,
+   "duracao": 6.4,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "[tense] Só que tem preço. Nos cem metros, reagir em menos de um décimo de segundo é falsa largada: a regra presume que você adivinhou. Você seria eliminado.",
+   "legenda": "Só que tem preço. Nos 100 metros, reagir em menos de 1 décimo de segundo é falsa largada: a regra presume que você adivinhou. Você seria eliminado.",
+   "inicio": 24.23,
+   "duracao": 7.34,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "[dramatic] Final da Copa. Último pênalti. Então você vê o cabo da câmera de TV arrebentar. Embaixo, um menino, pegador de bolas. Meio segundo. A bola... ou o menino?",
+   "legenda": "Final da Copa. Último pênalti. Então você vê o cabo da câmera de TV arrebentar. Embaixo, um menino, pegador de bolas. Meio segundo. A bola... ou o menino?",
+   "inicio": 31.89,
+   "duracao": 8.24,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "[soft] Você escolhe o menino. A bola entra. Oitenta mil pessoas se calam... e se levantam pra te aplaudir.",
+   "legenda": "Você escolhe o menino. A bola entra. 80 mil pessoas se calam... e se levantam pra te aplaudir.",
+   "inicio": 40.33,
+   "duracao": 5.22,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "[pointed] E você? Defendia a Copa... ou o menino?",
+   "legenda": "E você? Defendia a Copa... ou o menino?",
+   "inicio": 45.71,
+   "duracao": 2.42,
+   "arquivo": "../roteiros/voz-reflexo/narracao.wav"
+  }
+ ],
+ "pausa": {
+  "em": 2.69,
+  "dur": 0.6,
+  "motivo": "a mosca presa no punho (1,5 s ficou longo demais; 0,6 s em 23/10/2026)"
+ },
+ "corte": {
+  "em": 10.36,
+  "ate": 13.09,
+  "dur": 2.73,
+  "motivo": "tirada a frase 'Os músculos são os mesmos: você só começa mais cedo.' (23/10/2026)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "titulo": "E se o seu cérebro fosse 10 vezes mais rápido?",
+ "objetivo": "Versão de 50 s de um vídeo 'e se' (adaptação livre, texto próprio): ciência da reação humana em proporções (régua, pênalti, largada) e um dilema final. Ficção marcada como hipótese.",
+ "voz": "Lucas (ElevenLabs eleven_v4), grave, emoção por frase",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Gancho",
+   "falas": [
+    {
+     "fala": "[intense] Você acabou de ganhar um cérebro dez vezes mais rápido. Um copo cai da mesa... e sua mão já está embaixo.",
+     "legenda": "Você acabou de ganhar um cérebro 10 vezes mais rápido. Um copo cai da mesa... e sua mão já está embaixo.",
+     "fonte": "Premissa do vídeo (hipótese: 'e se')"
+    }
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "A reação",
+   "falas": [
+    {
+     "fala": "[matter-of-fact] Uma pessoa normal reage em um quarto de segundo. Você, em vinte e cinco milésimos.",
+     "legenda": "Uma pessoa normal reage em 1/4 de segundo. Você, em 25 milésimos.",
+     "fonte": "Reação visual típica ~0,25 s (teste da régua: 30 cm de queda; t = raiz(2d/g) = 0,247 s; IFPR, IME-USP). 0,25 s / 10 = 0,025 s"
+    }
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "A régua",
+   "falas": [
+    {
+     "fala": "[amazed] Teste da régua: uma pessoa deixa cair trinta centímetros. Você, três milímetros. O mundo inteiro anda em câmera lenta.",
+     "legenda": "Teste da régua: uma pessoa deixa cair 30 centímetros. Você, 3 milímetros. O mundo inteiro anda em câmera lenta.",
+     "fonte": "d = g.t²/2: 0,25 s -> 30,6 cm; 0,025 s -> 3,1 mm (conta em Python)"
+    }
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O pênalti",
+   "falas": [
+    {
+     "fala": "[excited] No futebol, um pênalti chega em menos de meio segundo. O goleiro comum aposta num lado. Você espera a bola sair... e defende.",
+     "legenda": "No futebol, um pênalti chega em menos de meio segundo. O goleiro comum aposta num lado. Você espera a bola sair... e defende.",
+     "fonte": "Pênalti a 108 km/h, 11 m: ~0,36 s (Prepara ENEM; conta: 11 / 30 = 0,37 s)"
+    }
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "[tense] Só que tem preço. Nos cem metros, reagir em menos de um décimo de segundo é falsa largada: a regra presume que você adivinhou. Você seria eliminado.",
+     "legenda": "Só que tem preço. Nos 100 metros, reagir em menos de 1 décimo de segundo é falsa largada: a regra presume que você adivinhou. Você seria eliminado.",
+     "fonte": "World Athletics TR16.6: reação abaixo de 0,100 s após o tiro = falsa largada (FinishLynx; Il Post; Lance)"
+    }
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "A final",
+   "falas": [
+    {
+     "fala": "[dramatic] Final da Copa. Último pênalti. Então você vê o cabo da câmera de TV arrebentar. Embaixo, um menino, pegador de bolas. Meio segundo. A bola... ou o menino?",
+     "legenda": "Final da Copa. Último pênalti. Então você vê o cabo da câmera de TV arrebentar. Embaixo, um menino, pegador de bolas. Meio segundo. A bola... ou o menino?",
+     "fonte": "Cena ficcional"
+    }
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "A escolha",
+   "falas": [
+    {
+     "fala": "[soft] Você escolhe o menino. A bola entra. Oitenta mil pessoas se calam... e se levantam pra te aplaudir.",
+     "legenda": "Você escolhe o menino. A bola entra. 80 mil pessoas se calam... e se levantam pra te aplaudir.",
+     "fonte": "Cena ficcional"
+    },
+    {
+     "fala": "[pointed] E você? Defendia a Copa... ou o menino?",
+     "legenda": "E você? Defendia a Copa... ou o menino?",
+     "fonte": ""
+    }
+   ]
+  }
+ ]
+}

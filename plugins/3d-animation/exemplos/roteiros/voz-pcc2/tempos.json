@@ -1,0 +1,148 @@
+{
+ "titulo": "Quanto ganha cada nível do PCC",
+ "voz": "Luciana",
+ "taxa": 200,
+ "total": 66.94,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Imagina ganhar mil e duzentos reais por dia vendendo droga.",
+   "legenda": "Imagina ganhar R$ 1.200 por dia vendendo droga.",
+   "inicio": 0.35,
+   "duracao": 3.46,
+   "arquivo": "../roteiros/voz-pcc2/frases/f01.aiff"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "No PCC, esse é só o primeiro de cinco degraus. E a cada degrau, o dinheiro sobe... e o risco também.",
+   "legenda": "No PCC, esse é só o primeiro de cinco degraus. E a cada degrau, o dinheiro sobe... e o risco também.",
+   "inicio": 3.95,
+   "duracao": 6.838,
+   "arquivo": "../roteiros/voz-pcc2/frases/f02.aiff"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No nível um, você vende: fica com quinze por cento de cada turno de doze horas.",
+   "legenda": "No nível um, você vende: fica com quinze por cento de cada turno de doze horas.",
+   "inicio": 11.107,
+   "duracao": 5.073,
+   "arquivo": "../roteiros/voz-pcc2/frases/f03.aiff"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "Mas metade dos jovens internados na Fundação Casa estava lá por tráfico.",
+   "legenda": "Mas metade dos jovens internados na Fundação Casa estava lá por tráfico.",
+   "inicio": 16.32,
+   "duracao": 4.516,
+   "arquivo": "../roteiros/voz-pcc2/frases/f04.aiff"
+  },
+  {
+   "n": 5,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "No nível dois, você é o gerente do ponto e fica com cinco por cento.",
+   "legenda": "No nível dois, você é o gerente do ponto e fica com cinco por cento.",
+   "inicio": 21.156,
+   "duracao": 4.214,
+   "arquivo": "../roteiros/voz-pcc2/frases/f05.aiff"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Parece pouco, mas tem ponto que fatura setecentos mil reais por semana.",
+   "legenda": "Parece pouco, mas tem ponto que fatura R$ 700 mil por semana.",
+   "inicio": 25.51,
+   "duracao": 4.581,
+   "arquivo": "../roteiros/voz-pcc2/frases/f06.aiff"
+  },
+  {
+   "n": 7,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "No nível três, você vira membro. E aqui você não recebe: você paga novecentos e cinquenta reais por mês.",
+   "legenda": "No nível três, você vira membro. E aqui você não recebe: você paga R$ 950 por mês.",
+   "inicio": 30.411,
+   "duracao": 7.209,
+   "arquivo": "../roteiros/voz-pcc2/frases/f07.aiff"
+  },
+  {
+   "n": 8,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "Se errar, vai pro tribunal do crime, e a pena pode ser a morte.",
+   "legenda": "Se errar, vai pro tribunal do crime, e a pena pode ser a morte.",
+   "inicio": 37.761,
+   "duracao": 3.937,
+   "arquivo": "../roteiros/voz-pcc2/frases/f08.aiff"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "No nível quatro, você chefia um setor, como o do dinheiro.",
+   "legenda": "No nível quatro, você chefia um setor, como o do dinheiro.",
+   "inicio": 42.018,
+   "duracao": 3.703,
+   "arquivo": "../roteiros/voz-pcc2/frases/f09.aiff"
+  },
+  {
+   "n": 10,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "E de oitenta e sete chefes de setor, cinquenta e dois estão presos.",
+   "legenda": "E de oitenta e sete chefes de setor, cinquenta e dois estão presos.",
+   "inicio": 45.861,
+   "duracao": 4.47,
+   "arquivo": "../roteiros/voz-pcc2/frases/f10.aiff"
+  },
+  {
+   "n": 11,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "No nível cinco, você está no topo: oitenta por cento do dinheiro das bocas sobe pra cúpula.",
+   "legenda": "No nível cinco, você está no topo: oitenta por cento do dinheiro das bocas sobe pra cúpula.",
+   "inicio": 50.651,
+   "duracao": 5.758,
+   "arquivo": "../roteiros/voz-pcc2/frases/f11.aiff"
+  },
+  {
+   "n": 12,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Segundo um promotor, a facção movimenta cerca de um bilhão de dólares por ano.",
+   "legenda": "Segundo um promotor, a facção movimenta cerca de US$ 1 bilhão por ano.",
+   "inicio": 56.549,
+   "duracao": 4.808,
+   "arquivo": "../roteiros/voz-pcc2/frases/f12.aiff"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Mas dos quinze chefes do topo, só um está solto.",
+   "legenda": "Mas dos quinze chefes do topo, só um está solto.",
+   "inicio": 61.677,
+   "duracao": 3.181,
+   "arquivo": "../roteiros/voz-pcc2/frases/f13.aiff"
+  },
+  {
+   "n": 14,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer subir?",
+   "legenda": "Ainda quer subir?",
+   "inicio": 64.997,
+   "duracao": 1.024,
+   "arquivo": "../roteiros/voz-pcc2/frases/f14.aiff"
+  }
+ ]
+}

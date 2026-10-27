@@ -1,0 +1,166 @@
+{
+  "titulo": "E se cada passo dobrasse o seu tamanho?",
+  "tipo": "reel narrado em 'e se...' (ficção científica com contas reais), 9:16, 2D falso em salas e cidade 3D",
+  "referencia": "Inspiração: 'What If Every Step Made You Twice as Big?' (canal AFTER THE DOOR, https://www.youtube.com/watch?v=ylnTesFVoOo). Mesmo conceito e mesma sequência de crescimento; texto, números conferidos, imagens e voz são nossos. Não usamos imagem, narração, trilha nem o painel de contadores da referência.",
+  "objetivo": "Reel de ~70 s. Cada passo é um corte: o pé que pousa é a transição. O número aparece na régua da cena (e na legenda), não em painel de canto.",
+  "voz": "Lucas (ElevenLabs eleven_v4), grave, calmo, uma emoção por frase. Ainda não gerada: só depois da aprovação do roteiro.",
+  "blocos": [
+    {
+      "nivel": 0,
+      "nome": "O começo",
+      "falas": [
+        {
+          "fala": "E se cada passo que você desse dobrasse a sua altura?",
+          "legenda": "E se cada passo que você desse dobrasse a sua altura?",
+          "selo_na_tela": "",
+          "imagem": "Rua de bairro de dia. Eu, de blusa vermelha escura e calça jeans, cabeça preta com olho branco. Câmera de 16 mm colada no tênis, olhando para cima: o pé pousa e a câmera sobe com ele.",
+          "fonte": "Gancho (nosso)."
+        },
+        {
+          "fala": "Você começa com um metro e oitenta. Depois do primeiro passo, são três metros e meio.",
+          "legenda": "Você começa com um metro e oitenta. Depois do primeiro passo, são três metros e meio.",
+          "selo_na_tela": "régua: 1,8 m → 3,6 m",
+          "imagem": "Corpo inteiro, 28 mm, de frente: o pé pousa e o boneco vai a 3,6 m; a régua ao lado vira o número novo.",
+          "fonte": "Conta nossa: 1,8 m × 2^n."
+        }
+      ]
+    },
+    {
+      "nivel": 1,
+      "nome": "Sete, quinze, trinta metros",
+      "falas": [
+        {
+          "fala": "No segundo passo, são sete metros.",
+          "legenda": "No segundo passo, são sete metros.",
+          "selo_na_tela": "régua: 7,2 m",
+          "imagem": "Corpo inteiro, 24 mm: o pé pousa e o boneco passa o poste da rua. A régua ao lado marca 7,2 m.",
+          "fonte": "Conta nossa: 1,8 × 2² = 7,2 m."
+        },
+        {
+          "fala": "No terceiro, são quinze metros. Se você tropeçar, leva quase dois segundos para cair.",
+          "legenda": "No terceiro, são quinze metros. Se você tropeçar, leva quase dois segundos para cair.",
+          "selo_na_tela": "régua: 14,4 m",
+          "imagem": "Plano da rua, 24 mm: o boneco com 14,4 m tropeça, cai de frente em câmera lenta.",
+          "fonte": "Conta nossa: 1,8 × 2³ = 14,4 m. Queda sem ar: t = √(2h/g) = 1,7 s."
+        },
+        {
+          "fala": "No quarto, são quase trinta metros. Sua voz leva um décimo de segundo para chegar aos pés.",
+          "legenda": "No quarto, são quase trinta metros. Sua voz leva um décimo de segundo para chegar aos pés.",
+          "selo_na_tela": "régua: 28,8 m",
+          "imagem": "Plano de baixo, 16 mm: o boneco fala e uma onda de som desce da boca até o pé, pequena e clara no ar.",
+          "fonte": "Conta nossa: 1,8 × 2⁴ = 28,8 m. Som no ar ≈ 343 m/s: 28,8 / 343 = 0,084 s."
+        }
+      ]
+    },
+    {
+      "nivel": 2,
+      "nome": "Sessenta metros",
+      "falas": [
+        {
+          "fala": "No quinto passo, são quase sessenta metros. Isso é mais alto que um prédio de dezoito andares. O seu cabelo tem a grossura de um palito de dente.",
+          "legenda": "No quinto passo, são quase sessenta metros. Isso é mais alto que um prédio de dezoito andares. O seu cabelo tem a grossura de um palito de dente.",
+          "selo_na_tela": "régua no prédio: 55 m; palito: 2 mm",
+          "imagem": "Contra-plongée, 20 mm: a cabeça de 57,6 m passa do topo de um prédio de 18 andares. Corte para close na cabeça, 85 mm: um fio de cabelo do tamanho de um palito de dente ao lado do rosto.",
+          "fonte": "Conta nossa: 1,8 × 2⁵ = 57,6 m. Prédio de 18 andares ≈ 55 m. Cabelo 50 a 100 µm (Wikipedia, 'Hair') × 32 = 1,6 a 3,2 mm; palito de dente ≈ 2 mm."
+        },
+        {
+          "fala": "Nessa altura, o coração precisa de mais de uma atmosfera e meia de pressão para levar o sangue até a cabeça.",
+          "legenda": "Nessa altura, o coração precisa de mais de uma atmosfera e meia de pressão para levar o sangue até a cabeça.",
+          "selo_na_tela": "",
+          "imagem": "Close no peito, 50 mm, com a pulsação visível no pescoço; a cabeça lá em cima, fora do quadro.",
+          "fonte": "Conta nossa: pressão extra = ρ·g·Δh = 1060 × 9,8 × (0,28 × 57,6 m) ≈ 167 kPa ≈ 1,65 atm (ρ do sangue ≈ 1060 kg/m³)."
+        }
+      ]
+    },
+    {
+      "nivel": 3,
+      "nome": "Os prédios",
+      "falas": [
+        {
+          "fala": "No nono, você passa o Burj Khalifa, que tem oitocentos e vinte e oito metros.",
+          "legenda": "No nono, você passa o Burj Khalifa, que tem oitocentos e vinte e oito metros.",
+          "selo_na_tela": "régua na torre: 828 m",
+          "imagem": "Plano da cidade, 35 mm, de longe: a torre com a régua de 828 m; o boneco de 921,6 m passa o topo dela.",
+          "fonte": "Burj Khalifa: 828 m (Wikipedia / CTBUH). Conta nossa: 1,8 × 2⁹ = 921,6 m."
+        }
+      ]
+    },
+    {
+      "nivel": 4,
+      "nome": "Dois quilômetros",
+      "falas": [
+        {
+          "fala": "No décimo, são quase dois quilômetros: o cabelo tem a grossura de uma lata de refrigerante e a vista chega a cento e cinquenta quilômetros.",
+          "legenda": "No décimo, são quase dois quilômetros: o cabelo tem a grossura de uma lata de refrigerante e a vista chega a cento e cinquenta quilômetros.",
+          "selo_na_tela": "régua: 1,84 km; lata: 66 mm",
+          "imagem": "Close na cabeça, 50 mm: uma mecha de cabelo do tamanho de uma lata de refrigerante ao lado do rosto; ao fundo, a cidade pequena.",
+          "fonte": "Conta nossa: 1,8 × 2¹⁰ = 1.843 m. Lata de 355 ml ≈ 66 mm de diâmetro. Cabelo ×1024 = 51 a 102 mm."
+        }
+      ]
+    },
+    {
+      "nivel": 5,
+      "nome": "O ar",
+      "falas": [
+        {
+          "fala": "Com doze passos, são sete quilômetros. Na altura da boca, o ar tem menos da metade da pressão do chão.",
+          "legenda": "Com doze passos, são sete quilômetros. Na altura da boca, o ar tem menos da metade da pressão do chão.",
+          "selo_na_tela": "régua: boca ≈ 6,3 km",
+          "imagem": "Plano de baixo, 16 mm, com as nuvens passando lá embaixo; o boneco respira fundo, o peito sobe.",
+          "fonte": "Conta nossa: 1,8 × 2¹² = 7.373 m; boca ≈ 0,85 × altura ≈ 6,3 km. Atmosfera padrão: a 6 km a pressão é ~47% da do solo."
+        }
+      ]
+    },
+    {
+      "nivel": 6,
+      "nome": "A Lua e a Terra",
+      "falas": [
+        {
+          "fala": "No vigésimo primeiro, você já é mais alto que a Lua é larga: três mil quatrocentos e setenta quilômetros.",
+          "legenda": "No vigésimo primeiro, você já é mais alto que a Lua é larga: três mil quatrocentos e setenta quilômetros.",
+          "selo_na_tela": "régua: 3.474 km",
+          "imagem": "Plano do céu, 16 mm, de baixo: o boneco de 3.775 km; a Lua aparece pequena ao lado, com a régua de 3.474 km.",
+          "fonte": "Diâmetro da Lua: 3.474 km (NASA, Moon fact sheet). Conta nossa: 1,8 × 2²¹ = 3.775 km."
+        },
+        {
+          "fala": "No vigésimo terceiro, é a vez da Terra: doze mil setecentos e quarenta e dois quilômetros de largura.",
+          "legenda": "No vigésimo terceiro, é a vez da Terra: doze mil setecentos e quarenta e dois quilômetros de largura.",
+          "selo_na_tela": "régua: 12.742 km",
+          "imagem": "Plano do espaço, 35 mm: a Terra inteira com o boneco de pé em cima, de 15.099 km, a cabeça fora do quadro.",
+          "fonte": "Diâmetro médio da Terra: 12.742 km (NASA). Conta nossa: 1,8 × 2²³ = 15.099 km."
+        }
+      ]
+    },
+    {
+      "nivel": 7,
+      "nome": "O fim",
+      "falas": [
+        {
+          "fala": "E no vigésimo oitavo, você passa da distância entre a Terra e a Lua, que é de quase quatrocentos mil quilômetros.",
+          "legenda": "E no vigésimo oitavo, você passa da distância entre a Terra e a Lua, que é de quase quatrocentos mil quilômetros.",
+          "selo_na_tela": "régua: 384.400 km",
+          "imagem": "Plano aberto no espaço, 24 mm: a Terra e a Lua pequenas, com um traço da distância entre elas; o boneco de 483.000 km ocupa mais que o traço.",
+          "fonte": "Distância média Terra-Lua: 384.400 km (NASA). Conta nossa: 1,8 × 2²⁸ = 483.183 km."
+        }
+      ]
+    }
+  ],
+  "personagens": {
+    "eu": "Narrador e o gigante: cabeça preta com olho branco, blusa vermelha escura, calça jeans. O mesmo 'eu' do Abrigo."
+  },
+  "fontes": [
+    "Burj Khalifa: 828 m, prédio mais alto do mundo (Wikipedia / CTBUH).",
+    "Diâmetro da Lua: 3.474 km; diâmetro médio da Terra: 12.742 km; distância média Terra-Lua: 384.400 km (NASA).",
+    "Cabelo humano: diâmetro típico 50 a 100 µm (Wikipedia, 'Hair'). Objetos: fio de costura 0,2 a 0,3 mm; folha de caderno ~0,1 mm; palito de dente ~2 mm; lata de 355 ml ~66 mm de diâmetro.",
+    "Contas nossas: altura = 1,8 m × 2^n; peso = 8^n (corpo semelhante); queda sem ar √(2h/g); voz 343 m/s; pressão extra do sangue ρgΔh com ρ = 1060 kg/m³ e coração a 72% da altura; horizonte √(2Rh) com R = 6.371 km; pressão por atmosfera padrão (ISA).",
+    "Valores de conta, sem fonte de livro, para conferir antes da voz: ombro ≈ 82% da altura; joelho ≈ 28%; boca ≈ 85%."
+  ],
+  "mudancas_em_relacao_a_referencia": [
+    "Texto e falas escritos por nós: um fato por frase, cada um ligado ao próximo.",
+    "Além da altura: o que acontece no corpo (voz, respiração, sangue, queda), o que acontece em volta (horizonte, nuvens, prédios) e o tamanho do cabelo.",
+    "Sem painel de contadores nos cantos: números em régua dentro da cena e na legenda.",
+    "Cada passo é um corte (o pé que pousa é a transição).",
+    "Sem efeitos de destruição nem gente ferida."
+  ],
+  "regra_de_texto": "Um fato por frase; cada frase conecta na seguinte. Sem frase de efeito, sem comentário sobre o que o número significa, sem pergunta no fim. Palavra simples, soar natural em voz alta."
+}

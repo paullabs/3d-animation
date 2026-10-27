@@ -1,0 +1,31 @@
+# Índice das regras do canal
+
+- [estilo-ifversetales-2d-falso](estilo-ifversetales-2d-falso.md): Canal 38 (reels de histórias narradas) segue o estilo do @IfverseTales — 2D falso com parallax feito em Blender; regras visuais já aprovadas/recusadas
+- [feedback-animacao-profissional](feedback-animacao-profissional.md): travado, duro, amador" = pose a pose que para em cada chave e câmera que entra/sai parada; usar mola por junta, câmera de operador e medir com mede_mov.py
+- [feedback-cenario-limpo](feedback-cenario-limpo.md): Cenários das histórias devem ser limpos como no IfverseTales: uma cor, pouca coisa, personagem grande; recusado o visual colorido/infantil de 'joguinho'
+- [feedback-cinema-acao](feedback-cinema-acao.md): a câmera vai onde a ação acontece (grande-angular 12-16 mm colada na mão, no chão sob o copo) e o ar reage; nada simplista
+- [feedback-clareza-legenda](feedback-clareza-legenda.md): não dá para entender, muita coisa na tela, legenda horrível": legenda grande em pílula no terço de baixo, sem HUD, poucos efeitos e poucos cortes calmos
+- [feedback-continuidade-episodios](feedback-continuidade-episodios.md): Continuação de série (ex.: O abrigo parte 2) parte do último quadro e das falas do episódio anterior; nada inventado sem marcar
+- [feedback-cores-vivas-nao-colorido](feedback-cores-vivas-nao-colorido.md): Cores mais vivas" = saturar um pouco, não pintar prédios de rosa, roxo e verde; cenário em tons reais
+- [feedback-direcao-de-cena-cinema](feedback-direcao-de-cena-cinema.md): Storyboard/decupagem precisa de direção de cena de cinema: reação antes da causa, monstro revelado em degraus, geografia única, direção de tela e câmera que anda (quadro de início e fim)
+- [feedback-espaco-entre-objetos](feedback-espaco-entre-objetos.md): Dar folga entre o boneco e o cenário em TODOS os quadros (inclusive durante o crescimento); conferir em vista ampla, não só malha dentro de malha
+- [feedback-estilo-personagem](feedback-estilo-personagem.md): O que o usuário recusou e aprovou no design do personagem animado (reels narrados)
+- [feedback-mixagem-som](feedback-mixagem-som.md): Mixagem aprovada na direção: música clássica tensa bem sutil, camadas de volume que sobem e descem, efeitos baixos que nunca competem com a voz
+- [feedback-modelagem-3d](feedback-modelagem-3d.md): O abrigo": objetos planos (mão de papel) quebram a imersão; modelar em 3D, cidade viva, vidro de verdade, cortes de até 1,3 s, câmera de segurança, efeito Fuji no fim
+- [feedback-moderacao-instagram](feedback-moderacao-instagram.md): PCC v7 foi bloqueado pelo Instagram (23/10/2026); que linguagem evitar nos roteiros de facção, cartel e afins
+- [feedback-paleta-cinema](feedback-paleta-cinema.md): Cor e pose: paleta de cinema planejada por vídeo, fundo em tom médio (nada de quase preto), sem amarelo+escuro+preto; herói de frente quando a cena pede
+- [feedback-ritmo-insertos](feedback-ritmo-insertos.md): Ritmo e diagramação: poucas cenas bem planejadas com fio narrativo; algo novo a cada ~1 s DENTRO da cena; câmera suave; objetos limpos e alinhados à grade
+- [feedback-rosto-vida](feedback-rosto-vida.md): texto/objeto nunca na frente de rosto, cabeça nunca cortada; tudo treme e balança; nada atravessa nada (colisão)
+- [feedback-roteiro-conexoes](feedback-roteiro-conexoes.md): Roteiro precisa de fio — cada fala nasce da anterior (causa, consequência, virada), sem encher linguiça ao redor da mesma ideia
+- [feedback-roteiro-direto-parada-ja](feedback-roteiro-direto-parada-ja.md): Trânsito 3D: roteiro prolixo e com a parada só aos 20 s foi recusado (27/10/2026); a pergunta e a freada têm de aparecer logo, cada ideia uma vez
+- [feedback-roteiros](feedback-roteiros.md): Regras de escrita dos roteiros narrados do Canal 38 (gancho, dúvida, tamanho, palavras), vindas das recusas de 22/10/2026
+- [feedback-sem-cortes-repetidos](feedback-sem-cortes-repetidos.md): Não cortar para outro ângulo do mesmo momento; idealizar a cena antes; mudança (crescer) vista dentro de um plano com referência ao lado
+- [feedback-tom-conversa-legendas](feedback-tom-conversa-legendas.md): Roteiro em tom de conversa (sem ficar abstrato nem seco) e textos na tela discretos; voz final pela ElevenLabs com efeitos e música tensa
+- [feedback-transicoes](feedback-transicoes.md): Transições têm que ser imperceptíveis: corte no pico de uma rampa de velocidade com a mesma velocidade de tela dos dois lados; nada de cortina ou tela coberta
+- [feedback-transito-camera-suave](feedback-transito-camera-suave.md): Trânsito Brasil 3D — câmera dura e sem sentido; a regra é câmera planejada com ondas suaves, medida em número e nos quadros
+- [feedback-transito-clareza-humana](feedback-transito-clareza-humana.md): Trânsito 3D ep. 1: o v3 curto foi recusado (27/10/2026): visual confuso, carros sem movimento legível, roteiro confuso e distante das pessoas
+- [feedback-transito-espaco-exemplo](feedback-transito-espaco-exemplo.md): Trânsito Brasil 3D — o Paulo aceita fugir do real e pede carros mais espaçados "só para exemplo"; legibilidade vale mais que fidelidade
+- [feedback-transito-legibilidade](feedback-transito-legibilidade.md): Trânsito Brasil 3D — o Paulo recusou o primeiro teste por falta de contraste, informação demais e colisão/piscadas; regras para o mapa didático
+- [feedback-transito-so-de-cima](feedback-transito-so-de-cima.md): Trânsito 3D: o Paulo recusou o rascunho v1 (26/10/2026); quer a mecânica vista só de cima, sem barra branca, poucos planos longos e muito contraste
+- [feedback-transito-varias-vistas](feedback-transito-varias-vistas.md): Trânsito Brasil 3D — o Paulo quer várias visualizações da mesma cena, incluindo top view plano (ortográfica), não só perspectiva inclinada
+- [pipeline-historias](pipeline-historias.md): Fluxo combinado para produzir as histórias \"5 níveis\" do Canal 38 e onde está cada peça do kit

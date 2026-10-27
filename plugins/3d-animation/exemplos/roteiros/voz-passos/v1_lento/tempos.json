@@ -1,0 +1,137 @@
+{
+ "titulo": "E se cada passo dobrasse o seu tamanho?",
+ "voz": "ElevenLabs take1.mp3",
+ "total": 88.1,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "E se cada passo que você desse dobrasse a sua altura?",
+   "legenda": "E se cada passo que você desse dobrasse a sua altura?",
+   "inicio": 0.359,
+   "duracao": 3.141,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Você começa com um metro e oitenta. Depois do primeiro passo, são três metros e meio.",
+   "legenda": "Você começa com um metro e oitenta. Depois do primeiro passo, são três metros e meio.",
+   "inicio": 3.88,
+   "duracao": 5.72,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No segundo passo, são sete metros.",
+   "legenda": "No segundo passo, são sete metros.",
+   "inicio": 9.6,
+   "duracao": 2.96,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 4,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No terceiro, são quinze metros. Se você tropeçar, leva quase dois segundos para cair.",
+   "legenda": "No terceiro, são quinze metros. Se você tropeçar, leva quase dois segundos para cair.",
+   "inicio": 12.56,
+   "duracao": 6.14,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 5,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No quarto, são quase trinta metros. Sua voz leva um décimo de segundo para chegar aos pés.",
+   "legenda": "No quarto, são quase trinta metros. Sua voz leva um décimo de segundo para chegar aos pés.",
+   "inicio": 19.14,
+   "duracao": 6.38,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 6,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "No quinto passo, são quase sessenta metros. Isso é mais alto que um prédio de dezoito andares. O seu cabelo tem a grossura de um palito de dente.",
+   "legenda": "No quinto passo, são quase sessenta metros. Isso é mais alto que um prédio de dezoito andares. O seu cabelo tem a grossura de um palito de dente.",
+   "inicio": 25.92,
+   "duracao": 9.64,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 7,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "Nessa altura, o coração precisa de mais de uma atmosfera e meia de pressão para levar o sangue até a cabeça.",
+   "legenda": "Nessa altura, o coração precisa de mais de uma atmosfera e meia de pressão para levar o sangue até a cabeça.",
+   "inicio": 35.98,
+   "duracao": 6.04,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 8,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "No nono, você passa o Burj Khalifa, que tem oitocentos e vinte e oito metros.",
+   "legenda": "No nono, você passa o Burj Khalifa, que tem oitocentos e vinte e oito metros.",
+   "inicio": 42.58,
+   "duracao": 5.88,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 9,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "No décimo, são quase dois quilômetros: o cabelo tem a grossura de uma lata de refrigerante e a vista chega a cento e cinquenta quilômetros.",
+   "legenda": "No décimo, são quase dois quilômetros: o cabelo tem a grossura de uma lata de refrigerante e a vista chega a cento e cinquenta quilômetros.",
+   "inicio": 48.46,
+   "duracao": 9.0,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 10,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Com doze passos, são sete quilômetros. Na altura da boca, o ar tem menos da metade da pressão do chão.",
+   "legenda": "Com doze passos, são sete quilômetros. Na altura da boca, o ar tem menos da metade da pressão do chão.",
+   "inicio": 57.46,
+   "duracao": 7.5,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 11,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "No vigésimo primeiro, você já é mais alto que a Lua é larga: três mil quatrocentos e setenta quilômetros.",
+   "legenda": "No vigésimo primeiro, você já é mais alto que a Lua é larga: três mil quatrocentos e setenta quilômetros.",
+   "inicio": 65.54,
+   "duracao": 7.2,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 12,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "No vigésimo terceiro, é a vez da Terra: doze mil setecentos e quarenta e dois quilômetros de largura.",
+   "legenda": "No vigésimo terceiro, é a vez da Terra: doze mil setecentos e quarenta e dois quilômetros de largura.",
+   "inicio": 72.74,
+   "duracao": 6.34,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  },
+  {
+   "n": 13,
+   "bloco": 7,
+   "nivel": 7,
+   "texto": "E no vigésimo oitavo, você passa da distância entre a Terra e a Lua, que é de quase quatrocentos mil quilômetros.",
+   "legenda": "E no vigésimo oitavo, você passa da distância entre a Terra e a Lua, que é de quase quatrocentos mil quilômetros.",
+   "inicio": 79.08,
+   "duracao": 7.6,
+   "arquivo": "../roteiros/voz-passos/narracao.wav"
+  }
+ ]
+}

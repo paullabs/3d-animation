@@ -1,0 +1,138 @@
+{
+ "titulo": "Como é ser um ditador (5 níveis)",
+ "voz": "Luciana",
+ "taxa": 200,
+ "total": 66.76,
+ "falas": [
+  {
+   "n": 1,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Imagina uma estátua dourada de você mesmo, girando pra ficar sempre de frente pro sol.",
+   "legenda": "Imagina uma estátua dourada de você mesmo, girando pra ficar sempre de frente pro sol.",
+   "inicio": 0.35,
+   "duracao": 5.282,
+   "arquivo": "../roteiros/voz-ditador/frases/f01.aiff"
+  },
+  {
+   "n": 2,
+   "bloco": 0,
+   "nivel": 0,
+   "texto": "Um ditador fez isso de verdade. Vou te mostrar os cinco níveis até lá... e como acaba.",
+   "legenda": "Um ditador fez isso de verdade. Vou te mostrar os cinco níveis até lá... e como acaba.",
+   "inicio": 5.772,
+   "duracao": 5.388,
+   "arquivo": "../roteiros/voz-ditador/frases/f02.aiff"
+  },
+  {
+   "n": 3,
+   "bloco": 1,
+   "nivel": 1,
+   "texto": "No nível um, você toma o poder: com um golpe, ou ganhando uma eleição e mudando as regras depois.",
+   "legenda": "No nível um, você toma o poder: com um golpe, ou ganhando uma eleição e mudando as regras depois.",
+   "inicio": 11.481,
+   "duracao": 6.141,
+   "arquivo": "../roteiros/voz-ditador/frases/f03.aiff"
+  },
+  {
+   "n": 4,
+   "bloco": 2,
+   "nivel": 2,
+   "texto": "No nível dois, você cala todo mundo: fecha os jornais, prende quem discorda e vigia a internet.",
+   "legenda": "No nível dois, você cala todo mundo: fecha os jornais, prende quem discorda e vigia a internet.",
+   "inicio": 17.942,
+   "duracao": 6.42,
+   "arquivo": "../roteiros/voz-ditador/frases/f04.aiff"
+  },
+  {
+   "n": 5,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "No nível três, você faz todo mundo te adorar: seu rosto está até no dinheiro e na escola.",
+   "legenda": "No nível três, você faz todo mundo te adorar: seu rosto está até no dinheiro e na escola.",
+   "inicio": 24.682,
+   "duracao": 5.607,
+   "arquivo": "../roteiros/voz-ditador/frases/f05.aiff"
+  },
+  {
+   "n": 6,
+   "bloco": 3,
+   "nivel": 3,
+   "texto": "O ditador da estátua deu o próprio nome a janeiro, e o da mãe dele a abril.",
+   "legenda": "O ditador da estátua deu o próprio nome a janeiro, e o da mãe dele a abril.",
+   "inicio": 30.429,
+   "duracao": 4.4,
+   "arquivo": "../roteiros/voz-ditador/frases/f06.aiff"
+  },
+  {
+   "n": 7,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "No nível quatro, você vive como rei. Um imperador gastou uns vinte milhões de dólares só na coroação.",
+   "legenda": "No nível quatro, você vive como rei. Um imperador gastou uns vinte milhões de dólares só na coroação.",
+   "inicio": 35.149,
+   "duracao": 6.338,
+   "arquivo": "../roteiros/voz-ditador/frases/f07.aiff"
+  },
+  {
+   "n": 8,
+   "bloco": 4,
+   "nivel": 4,
+   "texto": "E o ditador do Zaire alugava o Concorde, um avião supersônico.",
+   "legenda": "E o ditador do Zaire alugava o Concorde, um avião supersônico.",
+   "inicio": 41.627,
+   "duracao": 4.017,
+   "arquivo": "../roteiros/voz-ditador/frases/f08.aiff"
+  },
+  {
+   "n": 9,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "No nível cinco, você não dorme, porque o perigo está do seu lado.",
+   "legenda": "No nível cinco, você não dorme, porque o perigo está do seu lado.",
+   "inicio": 45.964,
+   "duracao": 4.179,
+   "arquivo": "../roteiros/voz-ditador/frases/f09.aiff"
+  },
+  {
+   "n": 10,
+   "bloco": 5,
+   "nivel": 5,
+   "texto": "Dois em cada três ditadores derrubados caíram por golpe de gente de dentro.",
+   "legenda": "Dois em cada três ditadores derrubados caíram por golpe de gente de dentro.",
+   "inicio": 50.283,
+   "duracao": 4.495,
+   "arquivo": "../roteiros/voz-ditador/frases/f10.aiff"
+  },
+  {
+   "n": 11,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Na Romênia, Tchauchéscu foi vaiado num discurso. Quatro dias depois, estava fuzilado.",
+   "legenda": "Na Romênia, Ceaușescu foi vaiado num discurso. Quatro dias depois, estava fuzilado.",
+   "inicio": 55.098,
+   "duracao": 6.06,
+   "arquivo": "../roteiros/voz-ditador/frases/f11.aiff"
+  },
+  {
+   "n": 12,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Na Líbia, Kadáfi foi achado escondido num cano.",
+   "legenda": "Na Líbia, Gaddafi foi achado escondido num cano.",
+   "inicio": 61.298,
+   "duracao": 3.006,
+   "arquivo": "../roteiros/voz-ditador/frases/f12.aiff"
+  },
+  {
+   "n": 13,
+   "bloco": 6,
+   "nivel": 6,
+   "texto": "Ainda quer ser ditador?",
+   "legenda": "Ainda quer ser ditador?",
+   "inicio": 64.444,
+   "duracao": 1.396,
+   "arquivo": "../roteiros/voz-ditador/frases/f13.aiff"
+  }
+ ]
+}

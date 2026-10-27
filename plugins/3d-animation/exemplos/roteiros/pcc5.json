@@ -1,0 +1,110 @@
+{
+ "titulo": "Você acabou de entrar no PCC",
+ "objetivo": "Mesmo conteúdo do pcc3 (quanto cada degrau paga e o que cobra), dito como conversa: frases curtas, perguntas, 'tá', 'aí', sem enrolação.",
+ "voz": "ElevenLabs eleven_v4, Lucas - Deep & Profound Narrator, tags de emoção por frase, atempo 1,10",
+ "blocos": [
+  {
+   "nivel": 0,
+   "nome": "Gancho",
+   "falas": [
+    {
+     "fala": "Você acabou de entrar no PCC. E o seu salário pode chegar a mil e duzentos reais por dia.",
+     "legenda": "Você acabou de entrar no PCC. E o seu salário pode chegar a 1.200 reais por dia.",
+     "fonte": "Grampo da investigação do MPSP e da Polícia Civil (2021), Metrópoles 22/02/2025: o vendedor diz tirar até R$ 1.200 por dia num turno de 12 h"
+    },
+    {
+     "fala": "Só que cada degrau paga mais... e cobra mais caro."
+    }
+   ]
+  },
+  {
+   "nivel": 1,
+   "nome": "O ponto",
+   "falas": [
+    {
+     "fala": "No começo, você fica no ponto e leva quinze por cento do que vende no turno.",
+     "legenda": "No começo, você fica no ponto e leva 15% do que vende no turno.",
+     "fonte": "Metrópoles, 22/02/2025 (grampo de 2021): 15% de R$ 5 mil a R$ 8 mil por turno"
+    },
+    {
+     "fala": "O problema? Quando a polícia chega, quem tá na rua é você."
+    }
+   ]
+  },
+  {
+   "nivel": 2,
+   "nome": "O gerente",
+   "falas": [
+    {
+     "fala": "Aí você vira gerente. São cinco por cento, mas de um ponto que pode fazer setecentos mil por semana.",
+     "legenda": "Aí você vira gerente. São 5%, mas de um ponto que pode fazer 700 mil por semana.",
+     "fonte": "Planilhas apreendidas (Folha via Jornal de Brasília, 12/11/2023): 5% ao gerente; Operação Auditoria (Metrópoles, 22/10/2025): ponto com R$ 700 mil em 7 dias"
+    },
+    {
+     "fala": "E tem policial que cobra pra fazer vista grossa. Quarenta e dois PMs já foram condenados por isso.",
+     "legenda": "E tem policial que cobra pra fazer vista grossa. 42 PMs já foram condenados por isso.",
+     "fonte": "Operação Ubirajara, 22º Batalhão da PM: ConJur, 09/12/2019"
+    }
+   ]
+  },
+  {
+   "nivel": 3,
+   "nome": "O membro",
+   "falas": [
+    {
+     "fala": "Depois você vira membro. E agora quem paga é você: novecentos e cinquenta reais por mês.",
+     "legenda": "Depois você vira membro. E agora quem paga é você: 950 reais por mês.",
+     "fonte": "Documentos internos apreendidos em 2018 (Estadão; InSight Crime, 05/06/2018)"
+    },
+    {
+     "fala": "Atrasou? Vai pro tribunal do crime. E a pena pode ser surra, braço quebrado... ou morte.",
+     "fonte": "Metrópoles, 10/03/2025"
+    }
+   ]
+  },
+  {
+   "nivel": 4,
+   "nome": "O chefe de setor",
+   "falas": [
+    {
+     "fala": "Chegou a chefe de setor? Agora é muito dinheiro passando pela sua mão.",
+     "fonte": "Organograma da Polícia Civil (Dipol), fev/2026"
+    },
+    {
+     "fala": "E isso dá inveja. Um tesoureiro acusado de sumir com cinco milhões foi fuzilado na porta de casa.",
+     "legenda": "E isso dá inveja. Um tesoureiro acusado de sumir com 5 milhões foi fuzilado na porta de casa.",
+     "fonte": "Metrópoles, 15 e 16/03/2024: 'Luiz Conta Dinheiro', morto em Atibaia em 12/03/2024"
+    }
+   ]
+  },
+  {
+   "nivel": 5,
+   "nome": "O topo",
+   "falas": [
+    {
+     "fala": "Lá no topo, poucos dividem oitenta por cento do que cada ponto fatura.",
+     "legenda": "Lá no topo, poucos dividem 80% do que cada ponto fatura.",
+     "fonte": "Planilhas apreendidas (Folha via Jornal de Brasília, 12/11/2023)"
+    },
+    {
+     "fala": "Mas nem lá em cima você tá seguro. Em dois mil e vinte e quatro, chefes mandaram matar o próprio líder.",
+     "legenda": "Mas nem lá em cima você tá seguro. Em 2024, chefes mandaram matar o próprio líder.",
+     "fonte": "CNN Brasil, 22/02/2024, segundo o promotor Lincoln Gakiya"
+    }
+   ]
+  },
+  {
+   "nivel": 6,
+   "nome": "O preço",
+   "falas": [
+    {
+     "fala": "E dos quinze que mandam no topo, só um tá solto.",
+     "fonte": "Dipol, fev/2026 (SBT News; Folhapress): 15 da Sintonia Final, 1 solto"
+    },
+    {
+     "fala": "Ainda quer subir?"
+    }
+   ]
+  }
+ ]
+}
