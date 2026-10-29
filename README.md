@@ -17,6 +17,17 @@ No Claude Code:
 /plugin install 3d-animation@3d-animation
 ```
 
+Se o Claude perguntar o escopo, escolha o de usuário (`user`). Pelo terminal, o mesmo: `claude plugin marketplace add paullabs/3d-animation` e `claude plugin install 3d-animation@3d-animation --scope user`.
+
+No Codex:
+
+```bash
+codex plugin marketplace add paullabs/3d-animation
+codex plugin add 3d-animation@3d-animation
+```
+
+`--scope user` instala para todas as suas pastas (é o padrão do Claude Code). Para conferir, `claude plugin list` tem de mostrar `Scope: user` e `codex plugin list` tem de mostrar `installed, enabled`. Se o Claude mostrar `project` ou `local`, o plugin só vale naquela pasta: rode o `install` de novo com `--scope user`.
+
 Depois, numa pasta nova para o seu projeto, abra uma sessão do Claude e rode:
 
 ```

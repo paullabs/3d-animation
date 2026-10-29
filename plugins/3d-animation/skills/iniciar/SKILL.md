@@ -7,6 +7,19 @@ disable-model-invocation: true
 
 # Iniciar um projeto de animação 3D
 
+## Antes de começar: o plugin está instalado para todas as pastas?
+
+Se a pessoa instalou o plugin só para uma pasta, ele some quando ela abre o Claude Code em outra. Confira isto primeiro, sem instalar nada ainda:
+
+1. **Claude Code:** rode `claude plugin list --json` e procure o item `3d-animation@3d-animation`.
+   - Existe um item com `"scope": "user"` e `"enabled": true`: está **global**. Siga.
+   - Só existe com `"scope": "project"` ou `"local"` (vem junto o `projectPath`): **não está global**, vale só para aquela pasta. Diga isso numa frase e ofereça `claude plugin install 3d-animation@3d-animation --scope user`. Só rode com o sim da pessoa.
+   - Não aparece: o plugin foi carregado de uma pasta avulsa, ou o `claude` do terminal não é o da pessoa. Diga que **não está instalado**, mostre os comandos de instalação do `README.md` e siga só se ela quiser.
+2. **Codex:** rode `codex plugin list` e procure `3d-animation@3d-animation`: tem de dizer `installed, enabled`. Se não disser, ofereça `codex plugin add 3d-animation@3d-animation`.
+3. Se o comando `claude` ou `codex` não existir, ignore aquele item: a pessoa pode usar só um dos dois.
+
+> **Raiz do plugin (Claude Code e Codex).** Os comandos abaixo precisam da pasta do plugin, que o Claude Code chama de CLAUDE_PLUGIN_ROOT. O Claude Code troca a variável pelo caminho antes de você ler este texto. O Codex e outros agentes não trocam: lá a variável sai vazia, e o comando falha com "can't open file" ou "No such file". Se os comandos abaixo ainda mostram a variável escrita com cifrão e chaves, em vez de um caminho de pasta, **pare antes de rodar qualquer um**: a raiz do plugin é a pasta duas acima da pasta desta skill, a que tem o arquivo `scripts/animacao3d.py`. Confirme que o arquivo existe lá e use esse caminho absoluto no lugar da variável em todos os comandos. Nunca rode um comando com a raiz vazia.
+
 Rode, na pasta que o usuário indicar (sem argumento, a pasta atual):
 
 ```bash
